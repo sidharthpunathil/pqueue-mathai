@@ -1,0 +1,224 @@
+[
+  {
+    "question": "Express cos θ in terms of sin θ, where θ is an acute angle in a right triangle.",
+    "solution": {
+      "question": "Express cos θ in terms of sin θ, where θ is an acute angle in a right triangle.",
+      "options": [
+        {
+          "is_correct": true,
+          "output_result": "\\sqrt{1 - sin_{\\theta}^{2}}"
+        },
+        {
+          "is_correct": false,
+          "output_result": "\\sqrt{1 + sin_{\\theta}^{2}}"
+        },
+        {
+          "is_correct": false,
+          "output_result": "\\sqrt{sin_{\\theta}^{2} - 1}"
+        },
+        {
+          "is_correct": false,
+          "output_result": "\\sqrt{1 - cos_{\\theta}^{2}}"
+        },
+        {
+          "is_correct": false,
+          "output_result": "\\sqrt{1 + cos_{\\theta}^{2}}"
+        },
+        {
+          "is_correct": false,
+          "output_result": "sin_{\\theta}\\sqrt{1 - sin_{\\theta}^{2}}"
+        }
+      ],
+      "correct_answer": "\\sqrt{1 - sin_{\\theta}^{2}}",
+      "thoughts": "To express cos θ in terms of sin θ for an acute angle θ in a right triangle, we can use the Pythagorean identity from trigonometry. The Pythagorean identity states that for any angle θ, sin²θ + cos²θ = 1. Since we want to express cos θ in terms of sin θ, we can rearrange this equation to solve for cos θ.\n\nGiven that θ is an acute angle, cos θ will be positive. Therefore, we can express cos θ as the square root of (1 - sin²θ).\n\nWe will use the sympy library in Python to handle symbolic mathematics and represent sin θ and cos θ symbolically."
+    },
+    "mcq_type": "symbolic",
+    "timestamp": "2025-02-27T10:58:54.015Z",
+    "hash": "0945b671c44e5ae982876628a8582572"
+  },
+  {
+    "question": "If sin A = p, express tan A in terms of p, assuming A is an acute angle.",
+    "solution": {
+      "question": "If sin A = p, express tan A in terms of p, assuming A is an acute angle.",
+      "options": [
+        {
+          "is_correct": true,
+          "output_result": "\\frac{p}{\\sqrt{1 - p^{2}}}"
+        },
+        {
+          "is_correct": false,
+          "output_result": "\\frac{\\sqrt{1 - p^{2}}}{p}"
+        },
+        {
+          "is_correct": false,
+          "output_result": "\\frac{p}{1 - p^{2}}"
+        },
+        {
+          "is_correct": false,
+          "output_result": "\\frac{p^{2}}{\\sqrt{1 - p^{2}}}"
+        },
+        {
+          "is_correct": false,
+          "output_result": "\\frac{p}{\\sqrt{1 + p^{2}}}"
+        },
+        {
+          "is_correct": false,
+          "output_result": "\\frac{\\sqrt{1 - p^{2}}}{p^{2}}"
+        }
+      ],
+      "correct_answer": "\\frac{p}{\\sqrt{1 - p^{2}}}",
+      "thoughts": "To express tan A in terms of p, we need to use the trigonometric identity that relates tan A to sin A and cos A. We know that tan A = sin A / cos A. Since we are given sin A = p, we can substitute this value into the equation. However, we still need to find cos A in terms of p.\n\nUsing the Pythagorean identity sin^2 A + cos^2 A = 1, we can rearrange it to find cos A: cos^2 A = 1 - sin^2 A. Since sin A = p, we have cos^2 A = 1 - p^2. Taking the square root of both sides, we get cos A = sqrt(1 - p^2). Note that since A is an acute angle, cos A is positive, so we take the positive square root.\n\nNow we can substitute sin A = p and cos A = sqrt(1 - p^2) into the equation tan A = sin A / cos A to get tan A = p / sqrt(1 - p^2).\n\nTo rationalize the denominator, we can multiply both the numerator and denominator by sqrt(1 - p^2), which gives us tan A = p * sqrt(1 - p^2) / (1 - p^2).\n\nHowever, the most simplified form of tan A in terms of p is tan A = p / sqrt(1 - p^2)."
+    },
+    "mcq_type": "symbolic",
+    "timestamp": "2025-02-27T10:59:06.661Z",
+    "hash": "dc260cda79bf6430df63a120322279e3"
+  },
+  {
+    "question": "Express sin θ in terms of cos θ, where θ is an acute angle.",
+    "solution": {
+      "question": "Express sin θ in terms of cos θ, where θ is an acute angle.",
+      "options": [
+        {
+          "is_correct": true,
+          "output_result": "\\sqrt{1 - \\cos^{2}{\\left(\\theta \\right)}}"
+        },
+        {
+          "is_correct": false,
+          "output_result": "\\sqrt{1 + \\cos^{2}{\\left(\\theta \\right)}}"
+        },
+        {
+          "is_correct": false,
+          "output_result": "\\sqrt{\\cos^{2}{\\left(\\theta \\right)} - 1}"
+        },
+        {
+          "is_correct": false,
+          "output_result": "\\sqrt{1 - \\sin^{2}{\\left(\\theta \\right)}}"
+        },
+        {
+          "is_correct": false,
+          "output_result": "\\cos{\\left(\\theta \\right)}"
+        },
+        {
+          "is_correct": false,
+          "output_result": "\\sqrt{1 + \\sin^{2}{\\left(\\theta \\right)}}"
+        }
+      ],
+      "correct_answer": "\\sqrt{1 - \\cos^{2}{\\left(\\theta \\right)}}",
+      "thoughts": "To express sin θ in terms of cos θ, we can use the Pythagorean identity for sine and cosine: sin^2 θ + cos^2 θ = 1. Since θ is an acute angle, sin θ is positive. We can rearrange the equation to solve for sin θ: sin θ = ±√(1 - cos^2 θ). Given that θ is acute, we take the positive root. Therefore, sin θ = √(1 - cos^2 θ)."
+    },
+    "mcq_type": "symbolic",
+    "timestamp": "2025-02-27T10:59:29.427Z",
+    "hash": "de73e9d80b80eb3716f62dbb7301eed6"
+  },
+  {
+    "question": "If tan B = q, express sin B in terms of q, assuming B is an acute angle.",
+    "solution": {
+      "question": "If tan B = q, express sin B in terms of q, assuming B is an acute angle.",
+      "options": [
+        {
+          "is_correct": true,
+          "output_result": "\\frac{q}{\\sqrt{q^{2} + 1}}"
+        },
+        {
+          "is_correct": false,
+          "output_result": "\\frac{q}{\\sqrt{q^{2} - 1}}"
+        },
+        {
+          "is_correct": false,
+          "output_result": "\\frac{\\sqrt{q^{2} + 1}}{q}"
+        },
+        {
+          "is_correct": false,
+          "output_result": "\\frac{q}{q^{2} + 1}"
+        },
+        {
+          "is_correct": false,
+          "output_result": "\\frac{\\sqrt{q^{2} + 1}}{\\sqrt{q^{2}}}"
+        },
+        {
+          "is_correct": false,
+          "output_result": "\\frac{q^{2}}{\\sqrt{q^{2} + 1}}"
+        }
+      ],
+      "correct_answer": "\\frac{q}{\\sqrt{q^{2} + 1}}",
+      "thoughts": "To express sin B in terms of q, where tan B = q, we can use the trigonometric identity that relates tangent and sine. Since tan B = sin B / cos B, we can rearrange this to find sin B. We also know that for an acute angle B, we can use the Pythagorean identity sin^2 B + cos^2 B = 1 to solve for cos B in terms of tan B. \n\nGiven tan B = q, we can draw a right triangle where the side opposite angle B is q and the side adjacent to angle B is 1. The hypotenuse of this triangle can be found using the Pythagorean theorem: hypotenuse = sqrt(q^2 + 1). \n\nThen, sin B = opposite side / hypotenuse = q / sqrt(q^2 + 1). \n\nHowever, to rationalize the denominator and express sin B in a more simplified form in terms of q, we can multiply both the numerator and denominator by sqrt(q^2 + 1), which results in sin B = q*sqrt(q^2 + 1) / (q^2 + 1). \n\nBut a more standard form, considering the initial relation and the fact that we're dealing with an acute angle, would directly utilize the relation of tan B to sin B and cos B, keeping in mind the identity sin^2 B + cos^2 B = 1 and tan B = sin B / cos B = q. \n\nThus, sin B = q / sqrt(1 + q^2) is a direct and simplified expression in terms of q for an acute angle B."
+    },
+    "mcq_type": "symbolic",
+    "timestamp": "2025-02-27T10:59:42.680Z",
+    "hash": "87256f2c50115239d12a9739979d0e2e"
+  },
+  {
+    "question": "Write the relationship between sin A and cos A using the Pythagorean identity.",
+    "solution": {
+      "question": "Write the relationship between sin A and cos A using the Pythagorean identity.",
+      "options": [
+        {
+          "is_correct": true,
+          "output_result": "True"
+        },
+        {
+          "is_correct": false,
+          "output_result": "False"
+        },
+        {
+          "is_correct": false,
+          "output_result": "Sometimes"
+        },
+        {
+          "is_correct": false,
+          "output_result": "Only for specific cases"
+        },
+        {
+          "is_correct": false,
+          "output_result": "Depends on the context"
+        },
+        {
+          "is_correct": false,
+          "output_result": "Generally not the case"
+        }
+      ],
+      "correct_answer": "True",
+      "thoughts": "To express the relationship between sin A and cos A using the Pythagorean identity, we need to recall the fundamental trigonometric identity that relates these two functions. The Pythagorean identity states that for any angle A, the sum of the squares of the sine and cosine of A is equal to 1. This can be expressed as:\n\nsin^2 A + cos^2 A = 1\n\nWe can use this identity to derive a relationship between sin A and cos A. \n\nSince the problem asks for the relationship between sin A and cos A, we will use the Pythagorean identity to express this relationship symbolically."
+    },
+    "mcq_type": "symbolic",
+    "timestamp": "2025-02-27T11:00:00.447Z",
+    "hash": "f441ec08eaff009fb22fb397a71232e6"
+  },
+  {
+    "question": "If cos C = r, express tan C in terms of r, assuming C is an acute angle.",
+    "solution": {
+      "question": "If cos C = r, express tan C in terms of r, assuming C is an acute angle.",
+      "options": [
+        {
+          "is_correct": true,
+          "output_result": "\\frac{\\sqrt{1 - r^{2}}}{r}"
+        },
+        {
+          "is_correct": false,
+          "output_result": "\\frac{r}{\\sqrt{1 - r^{2}}}"
+        },
+        {
+          "is_correct": false,
+          "output_result": "\\frac{\\sqrt{1 + r^{2}}}{r}"
+        },
+        {
+          "is_correct": false,
+          "output_result": "\\frac{r}{\\sqrt{1 + r^{2}}}"
+        },
+        {
+          "is_correct": false,
+          "output_result": "\\frac{\\sqrt{1 - r^{2}}}{-r}"
+        },
+        {
+          "is_correct": false,
+          "output_result": "\\frac{r}{1 - r^{2}}"
+        }
+      ],
+      "correct_answer": "\\frac{\\sqrt{1 - r^{2}}}{r}",
+      "thoughts": "To express tan C in terms of r, we need to use the trigonometric identity that relates tan C to cos C. We know that tan C = sin C / cos C. Since cos C = r, we can substitute this value into the equation. However, we still need to find sin C in terms of r.\n\nUsing the Pythagorean identity sin^2 C + cos^2 C = 1, we can rearrange it to sin C = sqrt(1 - cos^2 C). Since cos C = r, we have sin C = sqrt(1 - r^2).\n\nNow, we can substitute the values of sin C and cos C into the equation tan C = sin C / cos C. This gives us tan C = sqrt(1 - r^2) / r.\n\nSo, the expression for tan C in terms of r is sqrt(1 - r^2) / r."
+    },
+    "mcq_type": "symbolic",
+    "timestamp": "2025-02-27T11:34:20.037Z",
+    "hash": "1c054554c2b49b3e2ac04277e74c94aa"
+  }
+]

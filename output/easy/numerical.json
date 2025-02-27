@@ -1,0 +1,409 @@
+[
+  {
+    "question": "If sin A = 3/5, and A is an acute angle in a right triangle, what is the value of cos A?",
+    "solution": {
+      "question": "If sin A = 3/5, and A is an acute angle in a right triangle, what is the value of cos A?",
+      "options": [
+        {
+          "is_correct": true,
+          "output_result": "\\frac{4}{5}"
+        },
+        {
+          "is_correct": false,
+          "output_result": "\\frac{5}{4}"
+        },
+        {
+          "is_correct": false,
+          "output_result": "\\frac{3}{5}"
+        },
+        {
+          "is_correct": false,
+          "output_result": "\\frac{4}{3}"
+        },
+        {
+          "is_correct": false,
+          "output_result": "\\frac{2}{5}"
+        },
+        {
+          "is_correct": false,
+          "output_result": "\\frac{1}{5}"
+        }
+      ],
+      "correct_answer": "\\frac{4}{5}",
+      "thoughts": "To find the value of cos A, we can use the trigonometric identity sin^2 A + cos^2 A = 1. Given that sin A = 3/5, we can substitute this value into the equation and solve for cos A. Since A is an acute angle in a right triangle, cos A will be positive. We will use the Pythagorean identity to find the value of cos A."
+    },
+    "mcq_type": "numerical",
+    "timestamp": "2025-02-27T10:56:53.375Z",
+    "hash": "adb0bbeae8b83d04045993b67b129ad3"
+  },
+  {
+    "question": "In a right triangle ABC, right-angled at B, if AB = 5 cm and BC = 12 cm, what is the value of tan A?",
+    "solution": {
+      "question": "In a right triangle ABC, right-angled at B, if AB = 5 cm and BC = 12 cm, what is the value of tan A?",
+      "options": [
+        {
+          "is_correct": true,
+          "output_result": "2.4"
+        },
+        {
+          "is_correct": false,
+          "output_result": "2.1"
+        },
+        {
+          "is_correct": false,
+          "output_result": "2.7"
+        },
+        {
+          "is_correct": false,
+          "output_result": "1.9"
+        },
+        {
+          "is_correct": false,
+          "output_result": "3.1"
+        },
+        {
+          "is_correct": false,
+          "output_result": "2.0"
+        }
+      ],
+      "correct_answer": "2.4",
+      "thoughts": "To find the value of tan A in a right triangle ABC, right-angled at B, we can use the trigonometric definition of tangent. The tangent of an angle in a right triangle is defined as the ratio of the length of the side opposite the angle to the length of the side adjacent to the angle. In this case, tan A = opposite side (BC) / adjacent side (AB). \n\nGiven AB = 5 cm and BC = 12 cm, we can directly substitute these values into the formula to find tan A.\n\nWe will use the sympy library to ensure the result is provided as a simplified fraction if possible, or an integer if the result is a whole number."
+    },
+    "mcq_type": "numerical",
+    "timestamp": "2025-02-27T10:57:02.803Z",
+    "hash": "46ff396ab8ba2ddfaeec8f01ce88e7e2"
+  },
+  {
+    "question": "If tan θ = 1, what is the value of θ in degrees, where θ is an acute angle?",
+    "solution": {
+      "question": "If tan θ = 1, what is the value of θ in degrees, where θ is an acute angle?",
+      "options": [
+        {
+          "is_correct": true,
+          "output_result": "45"
+        },
+        {
+          "is_correct": false,
+          "output_result": "42"
+        },
+        {
+          "is_correct": false,
+          "output_result": "48"
+        },
+        {
+          "is_correct": false,
+          "output_result": "50"
+        },
+        {
+          "is_correct": false,
+          "output_result": "40"
+        },
+        {
+          "is_correct": false,
+          "output_result": "49"
+        }
+      ],
+      "correct_answer": "45",
+      "thoughts": "To solve this problem, we need to find the value of θ in degrees when tan θ = 1. \nWe know that tan θ = opposite side / adjacent side in a right-angled triangle. \nSince tan θ = 1, this means the opposite side and adjacent side are equal. \nThis corresponds to a 45-45-90 triangle, where the two acute angles are both 45 degrees. \nTherefore, the value of θ is 45 degrees.\nWe will use the math library in Python to get the value of θ in degrees.\nWe will define a function solve_problem that takes no parameters and returns the value of θ."
+    },
+    "mcq_type": "numerical",
+    "timestamp": "2025-02-27T10:57:17.812Z",
+    "hash": "c55c9580b27fca987e427169cc2bf10c"
+  },
+  {
+    "question": "In a right triangle, the side opposite to angle θ is 8 units and the hypotenuse is 10 units. What is the value of sin θ?",
+    "solution": {
+      "question": "In a right triangle, the side opposite to angle θ is 8 units and the hypotenuse is 10 units. What is the value of sin θ?",
+      "options": [
+        {
+          "is_correct": true,
+          "output_result": "\\frac{4}{5}"
+        },
+        {
+          "is_correct": false,
+          "output_result": "\\frac{5}{4}"
+        },
+        {
+          "is_correct": false,
+          "output_result": "\\frac{3}{5}"
+        },
+        {
+          "is_correct": false,
+          "output_result": "\\frac{4}{3}"
+        },
+        {
+          "is_correct": false,
+          "output_result": "\\frac{2}{5}"
+        },
+        {
+          "is_correct": false,
+          "output_result": "\\frac{1}{5}"
+        }
+      ],
+      "correct_answer": "\\frac{4}{5}",
+      "thoughts": "To find the value of sin θ, we need to use the definition of sine in a right triangle. The sine of an angle θ is defined as the ratio of the length of the side opposite to angle θ to the length of the hypotenuse. In this case, the side opposite to angle θ is 8 units and the hypotenuse is 10 units. \n\nWe can use the formula: sin θ = opposite side / hypotenuse.\n\nWe will use Python's sympy library to calculate the value of sin θ and ensure it's in a simplified fractional form if possible."
+    },
+    "mcq_type": "numerical",
+    "timestamp": "2025-02-27T10:57:29.639Z",
+    "hash": "6ff54720d679fb1c72381457b2de9068"
+  },
+  {
+    "question": "If cos B = 0.6, what is the value of sin B, assuming B is an acute angle?",
+    "solution": {
+      "question": "If cos B = 0.6, what is the value of sin B, assuming B is an acute angle?",
+      "options": [
+        {
+          "is_correct": true,
+          "output_result": "\\frac{4}{5}"
+        },
+        {
+          "is_correct": false,
+          "output_result": "\\frac{5}{4}"
+        },
+        {
+          "is_correct": false,
+          "output_result": "\\frac{3}{5}"
+        },
+        {
+          "is_correct": false,
+          "output_result": "\\frac{4}{3}"
+        },
+        {
+          "is_correct": false,
+          "output_result": "\\frac{2}{5}"
+        },
+        {
+          "is_correct": false,
+          "output_result": "\\frac{1}{5}"
+        }
+      ],
+      "correct_answer": "\\frac{4}{5}",
+      "thoughts": "To find the value of sin B given cos B = 0.6, we can use the Pythagorean identity for sine and cosine: sin^2 B + cos^2 B = 1. Since B is an acute angle, sin B will be positive. We can rearrange the equation to solve for sin B: sin B = sqrt(1 - cos^2 B). Plugging in the given value of cos B, we get sin B = sqrt(1 - 0.6^2). This simplifies to sin B = sqrt(1 - 0.36) = sqrt(0.64). Taking the square root of 0.64 gives us sin B = 0.8. \n\nWe should use the sympy library to ensure the calculation is done symbolically and to get the exact fractional result instead of a decimal approximation."
+    },
+    "mcq_type": "numerical",
+    "timestamp": "2025-02-27T10:57:46.786Z",
+    "hash": "4476710b8a224cfc2cf388669b72e49b"
+  },
+  {
+    "question": "In a right-angled triangle PQR, right-angled at Q, if PQ = 7 cm and PR = 25 cm, find the value of sin R.",
+    "solution": {
+      "question": "In a right-angled triangle PQR, right-angled at Q, if PQ = 7 cm and PR = 25 cm, find the value of sin R.",
+      "options": [
+        {
+          "is_correct": true,
+          "output_result": "\\frac{7}{25}"
+        },
+        {
+          "is_correct": false,
+          "output_result": "\\frac{25}{7}"
+        },
+        {
+          "is_correct": false,
+          "output_result": "\\frac{7}{20}"
+        },
+        {
+          "is_correct": false,
+          "output_result": "\\frac{5}{25}"
+        },
+        {
+          "is_correct": false,
+          "output_result": "\\frac{7}{5}"
+        },
+        {
+          "is_correct": false,
+          "output_result": "\\frac{25}{27}"
+        }
+      ],
+      "correct_answer": "\\frac{7}{25}",
+      "thoughts": "To find the value of sin R in a right-angled triangle PQR, we can use the trigonometric definition of sine. The sine of an angle in a right-angled triangle is defined as the ratio of the length of the side opposite the angle to the length of the hypotenuse. \n\nGiven that PQ = 7 cm and PR = 25 cm, and the triangle is right-angled at Q, we can identify PQ as the side opposite to angle R and PR as the hypotenuse. \n\nWe will use the formula sin R = opposite side / hypotenuse = PQ / PR.\n\nSince we are given the lengths of the sides, we can directly substitute these values into the formula to find sin R.\n\nWe should ensure that our calculation results in a simplified fraction if possible, to match the expected numerical output type."
+    },
+    "mcq_type": "numerical",
+    "timestamp": "2025-02-27T10:58:01.807Z",
+    "hash": "b26b4409ff56d791220e8ad6b4226936"
+  },
+  {
+    "question": "If sin X = 4/5, what is the value of cos X, where X is an acute angle?",
+    "solution": {
+      "question": "If sin X = 4/5, what is the value of cos X, where X is an acute angle?",
+      "options": [
+        {
+          "is_correct": true,
+          "output_result": "\\frac{3}{5}"
+        },
+        {
+          "is_correct": false,
+          "output_result": "\\frac{5}{3}"
+        },
+        {
+          "is_correct": false,
+          "output_result": "\\frac{2}{5}"
+        },
+        {
+          "is_correct": false,
+          "output_result": "\\frac{3}{4}"
+        },
+        {
+          "is_correct": false,
+          "output_result": "\\frac{4}{5}"
+        },
+        {
+          "is_correct": false,
+          "output_result": "\\frac{2}{3}"
+        }
+      ],
+      "correct_answer": "\\frac{3}{5}",
+      "thoughts": "To find the value of cos X given sin X = 4/5, we can use the Pythagorean identity for sine and cosine: sin^2(X) + cos^2(X) = 1. Since X is an acute angle, cos X will be positive. We can rearrange the identity to solve for cos X: cos X = sqrt(1 - sin^2(X)). Plugging in the given value of sin X, we get cos X = sqrt(1 - (4/5)^2). Simplifying this expression will give us the value of cos X."
+    },
+    "mcq_type": "numerical",
+    "timestamp": "2025-02-27T10:58:16.957Z",
+    "hash": "a2c13cbcb387b14392f0c3da2e6bb6c9"
+  },
+  {
+    "question": "If tan Y = 5/12, and Y is an acute angle in a right triangle, what is the value of sin Y / cos Y?",
+    "solution": {
+      "question": "If tan Y = 5/12, and Y is an acute angle in a right triangle, what is the value of sin Y / cos Y?",
+      "options": [
+        {
+          "is_correct": true,
+          "output_result": "\\frac{5}{12}"
+        },
+        {
+          "is_correct": false,
+          "output_result": "\\frac{12}{5}"
+        },
+        {
+          "is_correct": false,
+          "output_result": "\\frac{5}{11}"
+        },
+        {
+          "is_correct": false,
+          "output_result": "\\frac{7}{12}"
+        },
+        {
+          "is_correct": false,
+          "output_result": "\\frac{12}{7}"
+        },
+        {
+          "is_correct": false,
+          "output_result": "\\frac{1}{12} * 5"
+        }
+      ],
+      "correct_answer": "\\frac{5}{12}",
+      "thoughts": "To solve this problem, we need to understand the relationship between tan(Y), sin(Y), and cos(Y) in a right triangle. Given that tan(Y) = 5/12, and knowing that tan(Y) = sin(Y) / cos(Y), we can use this relationship to find sin(Y) / cos(Y). Since Y is an acute angle, all trigonometric ratios will be positive. \n\nWe recall that in a right-angled triangle, tan(Y) = opposite side / adjacent side. Given tan(Y) = 5/12, this implies the ratio of the opposite side to the adjacent side is 5:12. However, to find sin(Y) / cos(Y), we recognize that sin(Y) / cos(Y) is equivalent to tan(Y) because tan(Y) = sin(Y) / cos(Y) by definition. \n\nTherefore, the value of sin(Y) / cos(Y) is directly equal to the value of tan(Y), which is given as 5/12. This means we do not necessarily need to calculate the individual values of sin(Y) and cos(Y) to find their ratio, as the given tan(Y) already provides this ratio."
+    },
+    "mcq_type": "numerical",
+    "timestamp": "2025-02-27T10:58:42.494Z",
+    "hash": "15c57297804df9d313944666f2a28415"
+  },
+  {
+    "question": "In a right triangle, the adjacent side to angle β is 9 units and the hypotenuse is 15 units. What is the value of cos β?",
+    "solution": {
+      "question": "In a right triangle, the adjacent side to angle β is 9 units and the hypotenuse is 15 units. What is the value of cos β?",
+      "options": [
+        {
+          "is_correct": true,
+          "output_result": "\\frac{3}{5}"
+        },
+        {
+          "is_correct": false,
+          "output_result": "\\frac{5}{3}"
+        },
+        {
+          "is_correct": false,
+          "output_result": "\\frac{2}{5}"
+        },
+        {
+          "is_correct": false,
+          "output_result": "\\frac{3}{4}"
+        },
+        {
+          "is_correct": false,
+          "output_result": "\\frac{4}{5}"
+        },
+        {
+          "is_correct": false,
+          "output_result": "\\frac{5}{4}"
+        }
+      ],
+      "correct_answer": "\\frac{3}{5}",
+      "thoughts": "To find the value of cos β, we need to use the definition of cosine in a right triangle. The cosine of an angle in a right triangle is defined as the ratio of the length of the adjacent side to the length of the hypotenuse. \n\nGiven:\n- Adjacent side = 9 units\n- Hypotenuse = 15 units\n\nWe can use the formula: cos β = adjacent side / hypotenuse\n\nSubstituting the given values, we get: cos β = 9 / 15\n\nThis fraction can be simplified to its lowest terms.\n\nSince the problem asks for a numerical value, we will simplify the fraction and return the result as a numerical value."
+    },
+    "mcq_type": "numerical",
+    "timestamp": "2025-02-27T11:29:36.549Z",
+    "hash": "7a21d91cfdea404737e71a601509d6d0"
+  },
+  {
+    "question": "If sin X = 4/5, what is the value of cos X, where X is an acute angle?",
+    "solution": {
+      "question": "If sin X = 4/5, what is the value of cos X, where X is an acute angle?",
+      "options": [
+        {
+          "is_correct": true,
+          "output_result": "\\frac{3}{5}"
+        },
+        {
+          "is_correct": false,
+          "output_result": "\\frac{5}{3}"
+        },
+        {
+          "is_correct": false,
+          "output_result": "\\frac{2}{5}"
+        },
+        {
+          "is_correct": false,
+          "output_result": "\\frac{3}{4}"
+        },
+        {
+          "is_correct": false,
+          "output_result": "\\frac{4}{5}"
+        },
+        {
+          "is_correct": false,
+          "output_result": "\\frac{5}{4}"
+        }
+      ],
+      "correct_answer": "\\frac{3}{5}",
+      "thoughts": "To find the value of cos X given sin X = 4/5, we can use the Pythagorean identity for sine and cosine: sin^2(X) + cos^2(X) = 1. Since X is an acute angle, cos X will be positive. We can rearrange the identity to solve for cos X: cos X = sqrt(1 - sin^2(X)). Plugging in the given value of sin X, we get cos X = sqrt(1 - (4/5)^2). Simplifying this expression will give us the value of cos X."
+    },
+    "mcq_type": "numerical",
+    "timestamp": "2025-02-27T11:33:56.325Z",
+    "hash": "a2c13cbcb387b14392f0c3da2e6bb6c9"
+  },
+  {
+    "question": "If tan Y = 5/12, and Y is an acute angle in a right triangle, what is the value of sin Y / cos Y?",
+    "solution": {
+      "question": "If tan Y = 5/12, and Y is an acute angle in a right triangle, what is the value of sin Y / cos Y?",
+      "options": [
+        {
+          "is_correct": true,
+          "output_result": "\\frac{5}{12}"
+        },
+        {
+          "is_correct": false,
+          "output_result": "\\frac{12}{5}"
+        },
+        {
+          "is_correct": false,
+          "output_result": "\\frac{5}{6}"
+        },
+        {
+          "is_correct": false,
+          "output_result": "\\frac{7}{12}"
+        },
+        {
+          "is_correct": false,
+          "output_result": "\\frac{11}{12}"
+        },
+        {
+          "is_correct": false,
+          "output_result": "\\frac{12}{13}"
+        }
+      ],
+      "correct_answer": "\\frac{5}{12}",
+      "thoughts": "To solve this problem, we need to understand the relationship between tan(Y), sin(Y), and cos(Y) in a right triangle. Given that tan(Y) = 5/12, we know that tan(Y) = opposite side / adjacent side. Since Y is an acute angle, we can use the Pythagorean theorem to find the hypotenuse of the triangle. \n\nThe Pythagorean theorem states that in a right-angled triangle, the square of the length of the hypotenuse (c) is equal to the sum of the squares of the lengths of the other two sides (a and b), i.e., c^2 = a^2 + b^2. \n\nWe can then use the definitions of sin(Y) and cos(Y) to find sin(Y) / cos(Y). \n\nsin(Y) = opposite side / hypotenuse\ncos(Y) = adjacent side / hypotenuse\n\nTherefore, sin(Y) / cos(Y) = (opposite side / hypotenuse) / (adjacent side / hypotenuse) = opposite side / adjacent side = tan(Y).\n\nSo, the value of sin(Y) / cos(Y) is equal to tan(Y), which is given as 5/12."
+    },
+    "mcq_type": "numerical",
+    "timestamp": "2025-02-27T11:34:07.824Z",
+    "hash": "15c57297804df9d313944666f2a28415"
+  }
+]

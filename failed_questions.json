@@ -1,0 +1,305 @@
+{
+  "easy_questions-numerical": [
+    {
+      "question": "If tan θ = 1, what is the value of θ in degrees, where θ is an acute angle?",
+      "timestamp": null,
+      "success": false
+    },
+    {
+      "question": "In a right triangle ABC, right-angled at B, if AB = 5 cm and BC = 12 cm, what is the value of tan A?",
+      "timestamp": null,
+      "success": false
+    },
+    {
+      "question": "If sin A = 3/5, and A is an acute angle in a right triangle, what is the value of cos A?",
+      "timestamp": null,
+      "success": false
+    },
+    {
+      "question": "If cos B = 0.6, what is the value of sin B, assuming B is an acute angle?",
+      "timestamp": null,
+      "success": false
+    },
+    {
+      "question": "Given a right triangle with an angle α, where sin α = 0.8, find the value of cos α.",
+      "timestamp": null,
+      "success": false
+    },
+    {
+      "question": "In a right triangle, the side opposite to angle θ is 8 units and the hypotenuse is 10 units. What is the value of sin θ?",
+      "timestamp": null,
+      "success": false
+    },
+    {
+      "question": "If tan Y = 5/12, and Y is an acute angle in a right triangle, what is the value of sin Y / cos Y?",
+      "timestamp": null,
+      "success": false
+    },
+    {
+      "question": "In a right triangle, the adjacent side to angle β is 9 units and the hypotenuse is 15 units. What is the value of cos β?",
+      "timestamp": null,
+      "success": false
+    },
+    {
+      "question": "If sin X = 4/5, what is the value of cos X, where X is an acute angle?",
+      "timestamp": null,
+      "success": false
+    },
+    {
+      "question": "In a right triangle ABC, right-angled at B, if AB = 5 cm and BC = 12 cm, what is the value of tan A?",
+      "timestamp": "2025-02-27T10:46:18.544Z",
+      "success": false
+    },
+    {
+      "question": "In a right triangle, the side opposite to angle θ is 8 units and the hypotenuse is 10 units. What is the value of sin θ?",
+      "timestamp": "2025-02-27T10:46:33.367Z",
+      "success": false
+    },
+    {
+      "question": "Given a right triangle with an angle α, where sin α = 0.8, find the value of cos α.",
+      "timestamp": "2025-02-27T10:57:52.595Z",
+      "success": false,
+      "mcq_type": "numerical"
+    },
+    {
+      "question": "In a right triangle, the adjacent side to angle β is 9 units and the hypotenuse is 15 units. What is the value of cos β?",
+      "timestamp": "2025-02-27T10:58:24.398Z",
+      "success": false,
+      "mcq_type": "numerical"
+    }
+  ],
+  "easy_questions-symbolic": [
+    {
+      "question": "Express cos θ in terms of sin θ, where θ is an acute angle in a right triangle.",
+      "timestamp": null,
+      "success": false
+    },
+    {
+      "question": "Express sin θ in terms of cos θ, where θ is an acute angle.",
+      "timestamp": null,
+      "success": false
+    },
+    {
+      "question": "If cos C = r, express tan C in terms of r, assuming C is an acute angle.",
+      "timestamp": null,
+      "success": false
+    },
+    {
+      "question": "Express tan x in terms of sin x and cos x.",
+      "timestamp": null,
+      "success": false
+    },
+    {
+      "question": "If tan B = q, express sin B in terms of q, assuming B is an acute angle.",
+      "timestamp": null,
+      "success": false
+    },
+    {
+      "question": "Write the relationship between sin A and cos A using the Pythagorean identity.",
+      "timestamp": null,
+      "success": false
+    },
+    {
+      "question": "Express cos θ in terms of sin θ, where θ is an acute angle in a right triangle.",
+      "timestamp": "2025-02-27T10:44:31.688Z",
+      "success": false
+    }
+  ],
+  "easy_questions-statement": [
+    {
+      "question": "In a right-angled triangle, what is the range of values for the sine of an acute angle?",
+      "timestamp": null,
+      "success": false
+    },
+    {
+      "question": "In a right-angled triangle, what is the range of values for the sine of an acute angle?",
+      "timestamp": "2025-02-27T10:44:25.359Z",
+      "success": false
+    }
+  ],
+  "hard_questions-numerical": [
+    {
+      "question": "If sin A + cos A = 7/5, and A is an acute angle, find the value of sin A * cos A.",
+      "timestamp": "2025-02-27T10:44:25.472Z",
+      "success": false
+    }
+  ],
+  "medium_questions-numerical": [
+    {
+      "question": "In a right triangle ABC, right-angled at B, if sin A = 5/13, find the value of tan A + cos A.",
+      "timestamp": "2025-02-27T10:44:27.393Z",
+      "success": false
+    }
+  ],
+  "medium_questions-symbolic": [
+    {
+      "question": "If sin A = x and cos A = y, simplify the expression (tan A + 1/tan A) in terms of x and y.",
+      "timestamp": "2025-02-27T10:44:32.125Z",
+      "success": false
+    }
+  ],
+  "medium_questions-statement": [
+    {
+      "question": "Explain why the value of tan A can be greater than 1, while sin A cannot.",
+      "timestamp": "2025-02-27T10:44:32.814Z",
+      "success": false
+    }
+  ],
+  "hard_questions-statement": [
+    {
+      "question": "Explain how the Pythagorean identity (sin^2 θ + cos^2 θ = 1) is derived from the Pythagorean theorem.",
+      "timestamp": "2025-02-27T10:44:32.834Z",
+      "success": false
+    }
+  ],
+  "easy-numerical": [
+    {
+      "question": "Given a right triangle with an angle α, where sin α = 0.8, find the value of cos α.",
+      "timestamp": "2025-02-27T11:29:25.532Z",
+      "success": false,
+      "mcq_type": "numerical"
+    },
+    {
+      "question": "Given a right triangle with an angle α, where sin α = 0.8, find the value of cos α.",
+      "timestamp": "2025-02-27T11:33:17.172Z",
+      "hash": "42a69298b8aee40b8458abd39d7aadf0",
+      "success": false,
+      "mcq_type": "numerical"
+    },
+    {
+      "question": "In a right triangle, the adjacent side to angle β is 9 units and the hypotenuse is 15 units. What is the value of cos β?",
+      "timestamp": "2025-02-27T11:33:17.762Z",
+      "hash": "7a21d91cfdea404737e71a601509d6d0",
+      "success": false,
+      "mcq_type": "numerical"
+    },
+    {
+      "question": "In a right-angled triangle PQR, right-angled at Q, if PQ = 7 cm and PR = 25 cm, find the value of sin R.",
+      "timestamp": "2025-02-27T11:33:21.851Z",
+      "hash": "b26b4409ff56d791220e8ad6b4226936",
+      "success": false,
+      "mcq_type": "numerical"
+    },
+    {
+      "question": "In a right triangle, the side opposite to angle θ is 8 units and the hypotenuse is 10 units. What is the value of sin θ?",
+      "timestamp": "2025-02-27T11:33:22.730Z",
+      "hash": "6ff54720d679fb1c72381457b2de9068",
+      "success": false,
+      "mcq_type": "numerical"
+    },
+    {
+      "question": "If tan θ = 1, what is the value of θ in degrees, where θ is an acute angle?",
+      "timestamp": "2025-02-27T11:33:22.893Z",
+      "hash": "c55c9580b27fca987e427169cc2bf10c",
+      "success": false,
+      "mcq_type": "numerical"
+    },
+    {
+      "question": "If cos B = 0.6, what is the value of sin B, assuming B is an acute angle?",
+      "timestamp": "2025-02-27T11:33:23.105Z",
+      "hash": "4476710b8a224cfc2cf388669b72e49b",
+      "success": false,
+      "mcq_type": "numerical"
+    },
+    {
+      "question": "If tan Y = 5/12, and Y is an acute angle in a right triangle, what is the value of sin Y / cos Y?",
+      "timestamp": "2025-02-27T11:33:24.214Z",
+      "hash": "15c57297804df9d313944666f2a28415",
+      "success": false,
+      "mcq_type": "numerical"
+    },
+    {
+      "question": "If sin A = 3/5, and A is an acute angle in a right triangle, what is the value of cos A?",
+      "timestamp": "2025-02-27T11:33:24.228Z",
+      "hash": "adb0bbeae8b83d04045993b67b129ad3",
+      "success": false,
+      "mcq_type": "numerical"
+    },
+    {
+      "question": "In a right triangle ABC, right-angled at B, if AB = 5 cm and BC = 12 cm, what is the value of tan A?",
+      "timestamp": "2025-02-27T11:33:25.915Z",
+      "hash": "46ff396ab8ba2ddfaeec8f01ce88e7e2",
+      "success": false,
+      "mcq_type": "numerical"
+    },
+    {
+      "question": "If sin X = 4/5, what is the value of cos X, where X is an acute angle?",
+      "timestamp": "2025-02-27T11:33:42.895Z",
+      "hash": "a2c13cbcb387b14392f0c3da2e6bb6c9",
+      "success": false,
+      "mcq_type": "numerical"
+    }
+  ],
+  "easy-symbolic": [
+    {
+      "question": "Express sin θ in terms of cos θ, where θ is an acute angle.",
+      "timestamp": "2025-02-27T11:34:12.459Z",
+      "hash": "de73e9d80b80eb3716f62dbb7301eed6",
+      "success": false,
+      "mcq_type": "symbolic"
+    },
+    {
+      "question": "If cos P = x/y, express sin P in terms of x and y.",
+      "timestamp": "2025-02-27T11:34:13.999Z",
+      "hash": "45191cd9143f0f16b07d96cb9be7672f",
+      "success": false,
+      "mcq_type": "symbolic"
+    },
+    {
+      "question": "If cos C = r, express tan C in terms of r, assuming C is an acute angle.",
+      "timestamp": "2025-02-27T11:34:15.822Z",
+      "hash": "1c054554c2b49b3e2ac04277e74c94aa",
+      "success": false,
+      "mcq_type": "symbolic"
+    },
+    {
+      "question": "Express tan x in terms of sin x and cos x.",
+      "timestamp": "2025-02-27T11:34:16.704Z",
+      "hash": "1a70a36179dedb70d34829ea6ecf7217",
+      "success": false,
+      "mcq_type": "symbolic"
+    },
+    {
+      "question": "If tan B = q, express sin B in terms of q, assuming B is an acute angle.",
+      "timestamp": "2025-02-27T11:34:18.916Z",
+      "hash": "87256f2c50115239d12a9739979d0e2e",
+      "success": false,
+      "mcq_type": "symbolic"
+    },
+    {
+      "question": "Write the relationship between sin A and cos A using the Pythagorean identity.",
+      "timestamp": "2025-02-27T11:34:19.007Z",
+      "hash": "f441ec08eaff009fb22fb397a71232e6",
+      "success": false,
+      "mcq_type": "symbolic"
+    },
+    {
+      "question": "If sin A = p, express tan A in terms of p, assuming A is an acute angle.",
+      "timestamp": "2025-02-27T11:34:19.188Z",
+      "hash": "dc260cda79bf6430df63a120322279e3",
+      "success": false,
+      "mcq_type": "symbolic"
+    },
+    {
+      "question": "Express cos θ in terms of sin θ, where θ is an acute angle in a right triangle.",
+      "timestamp": "2025-02-27T11:34:23.922Z",
+      "hash": "0945b671c44e5ae982876628a8582572",
+      "success": false,
+      "mcq_type": "symbolic"
+    },
+    {
+      "question": "Given tan Z = m/n, express sin Z in terms of m and n, assuming Z is acute.",
+      "timestamp": "2025-02-27T11:34:24.939Z",
+      "hash": "4275538444e16fccc9b2896e692cf20f",
+      "success": false,
+      "mcq_type": "symbolic"
+    },
+    {
+      "question": "If sin Y = a/b, where a and b are sides of a right triangle, express cos Y in terms of a and b.",
+      "timestamp": "2025-02-27T11:34:25.828Z",
+      "hash": "8cad098d730418bd6e6d4f6d0d4ecd1d",
+      "success": false,
+      "mcq_type": "symbolic"
+    }
+  ]
+}

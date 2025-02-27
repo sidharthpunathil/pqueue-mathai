@@ -1,0 +1,1763 @@
+{
+  "easy_questions": {
+    "numerical": [
+      {
+        "question": "Given a right triangle with an angle α, where sin α = 0.8, find the value of cos α.",
+        "timestamp": "2025_02_24_18-45-37",
+        "hash": "42a69298b8aee40b8458abd39d7aadf0"
+      },
+      {
+        "question": "If sin A = 3/5, and A is an acute angle in a right triangle, what is the value of cos A?",
+        "timestamp": "2025_02_24_18-45-38",
+        "hash": "adb0bbeae8b83d04045993b67b129ad3"
+      },
+      {
+        "question": "In a right triangle ABC, right-angled at B, if AB = 5 cm and BC = 12 cm, what is the value of tan A?",
+        "timestamp": "2025_02_24_18-45-38",
+        "hash": "46ff396ab8ba2ddfaeec8f01ce88e7e2"
+      },
+      {
+        "question": "If tan θ = 1, what is the value of θ in degrees, where θ is an acute angle?",
+        "timestamp": "2025_02_24_18-45-38",
+        "hash": "c55c9580b27fca987e427169cc2bf10c"
+      },
+      {
+        "question": "In a right triangle, the side opposite to angle θ is 8 units and the hypotenuse is 10 units. What is the value of sin θ?",
+        "timestamp": "2025_02_24_18-45-38",
+        "hash": "6ff54720d679fb1c72381457b2de9068"
+      },
+      {
+        "question": "If cos B = 0.6, what is the value of sin B, assuming B is an acute angle?",
+        "timestamp": "2025_02_24_18-45-38",
+        "hash": "4476710b8a224cfc2cf388669b72e49b"
+      },
+      {
+        "question": "Given a right triangle with an angle α, where sin α = 0.8, find the value of cos α.",
+        "timestamp": "2025_02_24_18-45-38",
+        "hash": "42a69298b8aee40b8458abd39d7aadf0"
+      },
+      {
+        "question": "In a right-angled triangle PQR, right-angled at Q, if PQ = 7 cm and PR = 25 cm, find the value of sin R.",
+        "timestamp": "2025_02_24_18-45-38",
+        "hash": "b26b4409ff56d791220e8ad6b4226936"
+      },
+      {
+        "question": "If sin X = 4/5, what is the value of cos X, where X is an acute angle?",
+        "timestamp": "2025_02_24_18-45-38",
+        "hash": "a2c13cbcb387b14392f0c3da2e6bb6c9"
+      },
+      {
+        "question": "In a right triangle, the adjacent side to angle β is 9 units and the hypotenuse is 15 units. What is the value of cos β?",
+        "timestamp": "2025_02_24_18-45-38",
+        "hash": "7a21d91cfdea404737e71a601509d6d0"
+      },
+      {
+        "question": "If tan Y = 5/12, and Y is an acute angle in a right triangle, what is the value of sin Y / cos Y?",
+        "timestamp": "2025_02_24_18-45-38",
+        "hash": "15c57297804df9d313944666f2a28415"
+      },
+      {
+        "question": "If sin A = 3/5, and A is an acute angle in a right triangle, what is the value of cos A?",
+        "timestamp": "2025_02_24_22-07-47",
+        "hash": "adb0bbeae8b83d04045993b67b129ad3"
+      },
+      {
+        "question": "In a right triangle ABC, right-angled at B, if AB = 5 cm and BC = 12 cm, what is the value of tan A?",
+        "timestamp": "2025_02_24_22-07-47",
+        "hash": "46ff396ab8ba2ddfaeec8f01ce88e7e2"
+      },
+      {
+        "question": "If tan θ = 1, what is the value of θ in degrees, where θ is an acute angle?",
+        "timestamp": "2025_02_24_22-07-47",
+        "hash": "c55c9580b27fca987e427169cc2bf10c"
+      },
+      {
+        "question": "In a right triangle, the side opposite to angle θ is 8 units and the hypotenuse is 10 units. What is the value of sin θ?",
+        "timestamp": "2025_02_24_22-07-47",
+        "hash": "6ff54720d679fb1c72381457b2de9068"
+      },
+      {
+        "question": "If cos B = 0.6, what is the value of sin B, assuming B is an acute angle?",
+        "timestamp": "2025_02_24_22-07-47",
+        "hash": "4476710b8a224cfc2cf388669b72e49b"
+      },
+      {
+        "question": "Given a right triangle with an angle α, where sin α = 0.8, find the value of cos α.",
+        "timestamp": "2025_02_24_22-07-47",
+        "hash": "42a69298b8aee40b8458abd39d7aadf0"
+      },
+      {
+        "question": "In a right-angled triangle PQR, right-angled at Q, if PQ = 7 cm and PR = 25 cm, find the value of sin R.",
+        "timestamp": "2025_02_24_22-07-47",
+        "hash": "b26b4409ff56d791220e8ad6b4226936"
+      },
+      {
+        "question": "If sin X = 4/5, what is the value of cos X, where X is an acute angle?",
+        "timestamp": "2025_02_24_22-07-47",
+        "hash": "a2c13cbcb387b14392f0c3da2e6bb6c9"
+      },
+      {
+        "question": "In a right triangle, the adjacent side to angle β is 9 units and the hypotenuse is 15 units. What is the value of cos β?",
+        "timestamp": "2025_02_24_22-07-47",
+        "hash": "7a21d91cfdea404737e71a601509d6d0"
+      },
+      {
+        "question": "If tan Y = 5/12, and Y is an acute angle in a right triangle, what is the value of sin Y / cos Y?",
+        "timestamp": "2025_02_24_22-07-47",
+        "hash": "15c57297804df9d313944666f2a28415"
+      },
+      {
+        "question": "If sin A = 3/5, and A is an acute angle in a right triangle, what is the value of cos A?",
+        "timestamp": "2025_02_24_22-07-48",
+        "hash": "adb0bbeae8b83d04045993b67b129ad3"
+      },
+      {
+        "question": "In a right triangle ABC, right-angled at B, if AB = 5 cm and BC = 12 cm, what is the value of tan A?",
+        "timestamp": "2025_02_24_22-07-48",
+        "hash": "46ff396ab8ba2ddfaeec8f01ce88e7e2"
+      },
+      {
+        "question": "If tan θ = 1, what is the value of θ in degrees, where θ is an acute angle?",
+        "timestamp": "2025_02_24_22-07-48",
+        "hash": "c55c9580b27fca987e427169cc2bf10c"
+      },
+      {
+        "question": "In a right triangle, the side opposite to angle θ is 8 units and the hypotenuse is 10 units. What is the value of sin θ?",
+        "timestamp": "2025_02_24_22-07-48",
+        "hash": "6ff54720d679fb1c72381457b2de9068"
+      },
+      {
+        "question": "If cos B = 0.6, what is the value of sin B, assuming B is an acute angle?",
+        "timestamp": "2025_02_24_22-07-48",
+        "hash": "4476710b8a224cfc2cf388669b72e49b"
+      },
+      {
+        "question": "Given a right triangle with an angle α, where sin α = 0.8, find the value of cos α.",
+        "timestamp": "2025_02_24_22-07-48",
+        "hash": "42a69298b8aee40b8458abd39d7aadf0"
+      },
+      {
+        "question": "In a right-angled triangle PQR, right-angled at Q, if PQ = 7 cm and PR = 25 cm, find the value of sin R.",
+        "timestamp": "2025_02_24_22-07-48",
+        "hash": "b26b4409ff56d791220e8ad6b4226936"
+      },
+      {
+        "question": "If sin X = 4/5, what is the value of cos X, where X is an acute angle?",
+        "timestamp": "2025_02_24_22-07-48",
+        "hash": "a2c13cbcb387b14392f0c3da2e6bb6c9"
+      },
+      {
+        "question": "In a right triangle, the adjacent side to angle β is 9 units and the hypotenuse is 15 units. What is the value of cos β?",
+        "timestamp": "2025_02_24_22-07-48",
+        "hash": "7a21d91cfdea404737e71a601509d6d0"
+      },
+      {
+        "question": "If tan Y = 5/12, and Y is an acute angle in a right triangle, what is the value of sin Y / cos Y?",
+        "timestamp": "2025_02_24_22-07-48",
+        "hash": "15c57297804df9d313944666f2a28415"
+      }
+    ],
+    "symbolic": [
+      {
+        "question": "If cos C = r, express tan C in terms of r, assuming C is an acute angle.",
+        "timestamp": "2025_02_24_18-45-37",
+        "hash": "1c054554c2b49b3e2ac04277e74c94aa"
+      },
+      {
+        "question": "Express tan x in terms of sin x and cos x.",
+        "timestamp": "2025_02_24_18-45-37",
+        "hash": "1a70a36179dedb70d34829ea6ecf7217"
+      },
+      {
+        "question": "If sin Y = a/b, where a and b are sides of a right triangle, express cos Y in terms of a and b.",
+        "timestamp": "2025_02_24_18-45-37",
+        "hash": "8cad098d730418bd6e6d4f6d0d4ecd1d"
+      },
+      {
+        "question": "Given tan Z = m/n, express sin Z in terms of m and n, assuming Z is acute.",
+        "timestamp": "2025_02_24_18-45-37",
+        "hash": "4275538444e16fccc9b2896e692cf20f"
+      },
+      {
+        "question": "If cos P = x/y, express sin P in terms of x and y.",
+        "timestamp": "2025_02_24_18-45-37",
+        "hash": "45191cd9143f0f16b07d96cb9be7672f"
+      },
+      {
+        "question": "Express cos θ in terms of sin θ, where θ is an acute angle in a right triangle.",
+        "timestamp": "2025_02_24_18-45-38",
+        "hash": "0945b671c44e5ae982876628a8582572"
+      },
+      {
+        "question": "If sin A = p, express tan A in terms of p, assuming A is an acute angle.",
+        "timestamp": "2025_02_24_18-45-38",
+        "hash": "dc260cda79bf6430df63a120322279e3"
+      },
+      {
+        "question": "Express sin θ in terms of cos θ, where θ is an acute angle.",
+        "timestamp": "2025_02_24_18-45-38",
+        "hash": "de73e9d80b80eb3716f62dbb7301eed6"
+      },
+      {
+        "question": "If tan B = q, express sin B in terms of q, assuming B is an acute angle.",
+        "timestamp": "2025_02_24_18-45-38",
+        "hash": "87256f2c50115239d12a9739979d0e2e"
+      },
+      {
+        "question": "Write the relationship between sin A and cos A using the Pythagorean identity.",
+        "timestamp": "2025_02_24_18-45-38",
+        "hash": "f441ec08eaff009fb22fb397a71232e6"
+      },
+      {
+        "question": "If cos C = r, express tan C in terms of r, assuming C is an acute angle.",
+        "timestamp": "2025_02_24_18-45-38",
+        "hash": "1c054554c2b49b3e2ac04277e74c94aa"
+      },
+      {
+        "question": "Express tan x in terms of sin x and cos x.",
+        "timestamp": "2025_02_24_18-45-38",
+        "hash": "1a70a36179dedb70d34829ea6ecf7217"
+      },
+      {
+        "question": "If sin Y = a/b, where a and b are sides of a right triangle, express cos Y in terms of a and b.",
+        "timestamp": "2025_02_24_18-45-38",
+        "hash": "8cad098d730418bd6e6d4f6d0d4ecd1d"
+      },
+      {
+        "question": "Given tan Z = m/n, express sin Z in terms of m and n, assuming Z is acute.",
+        "timestamp": "2025_02_24_18-45-38",
+        "hash": "4275538444e16fccc9b2896e692cf20f"
+      },
+      {
+        "question": "If cos P = x/y, express sin P in terms of x and y.",
+        "timestamp": "2025_02_24_18-45-38",
+        "hash": "45191cd9143f0f16b07d96cb9be7672f"
+      },
+      {
+        "question": "Express cos θ in terms of sin θ, where θ is an acute angle in a right triangle.",
+        "timestamp": "2025_02_24_22-07-47",
+        "hash": "0945b671c44e5ae982876628a8582572"
+      },
+      {
+        "question": "If sin A = p, express tan A in terms of p, assuming A is an acute angle.",
+        "timestamp": "2025_02_24_22-07-47",
+        "hash": "dc260cda79bf6430df63a120322279e3"
+      },
+      {
+        "question": "Express sin θ in terms of cos θ, where θ is an acute angle.",
+        "timestamp": "2025_02_24_22-07-47",
+        "hash": "de73e9d80b80eb3716f62dbb7301eed6"
+      },
+      {
+        "question": "If tan B = q, express sin B in terms of q, assuming B is an acute angle.",
+        "timestamp": "2025_02_24_22-07-47",
+        "hash": "87256f2c50115239d12a9739979d0e2e"
+      },
+      {
+        "question": "Write the relationship between sin A and cos A using the Pythagorean identity.",
+        "timestamp": "2025_02_24_22-07-47",
+        "hash": "f441ec08eaff009fb22fb397a71232e6"
+      },
+      {
+        "question": "If cos C = r, express tan C in terms of r, assuming C is an acute angle.",
+        "timestamp": "2025_02_24_22-07-47",
+        "hash": "1c054554c2b49b3e2ac04277e74c94aa"
+      },
+      {
+        "question": "Express tan x in terms of sin x and cos x.",
+        "timestamp": "2025_02_24_22-07-47",
+        "hash": "1a70a36179dedb70d34829ea6ecf7217"
+      },
+      {
+        "question": "If sin Y = a/b, where a and b are sides of a right triangle, express cos Y in terms of a and b.",
+        "timestamp": "2025_02_24_22-07-47",
+        "hash": "8cad098d730418bd6e6d4f6d0d4ecd1d"
+      },
+      {
+        "question": "Given tan Z = m/n, express sin Z in terms of m and n, assuming Z is acute.",
+        "timestamp": "2025_02_24_22-07-47",
+        "hash": "4275538444e16fccc9b2896e692cf20f"
+      },
+      {
+        "question": "If cos P = x/y, express sin P in terms of x and y.",
+        "timestamp": "2025_02_24_22-07-47",
+        "hash": "45191cd9143f0f16b07d96cb9be7672f"
+      },
+      {
+        "question": "Express cos θ in terms of sin θ, where θ is an acute angle in a right triangle.",
+        "timestamp": "2025_02_24_22-07-48",
+        "hash": "0945b671c44e5ae982876628a8582572"
+      },
+      {
+        "question": "If sin A = p, express tan A in terms of p, assuming A is an acute angle.",
+        "timestamp": "2025_02_24_22-07-48",
+        "hash": "dc260cda79bf6430df63a120322279e3"
+      },
+      {
+        "question": "Express sin θ in terms of cos θ, where θ is an acute angle.",
+        "timestamp": "2025_02_24_22-07-48",
+        "hash": "de73e9d80b80eb3716f62dbb7301eed6"
+      },
+      {
+        "question": "If tan B = q, express sin B in terms of q, assuming B is an acute angle.",
+        "timestamp": "2025_02_24_22-07-48",
+        "hash": "87256f2c50115239d12a9739979d0e2e"
+      },
+      {
+        "question": "Write the relationship between sin A and cos A using the Pythagorean identity.",
+        "timestamp": "2025_02_24_22-07-48",
+        "hash": "f441ec08eaff009fb22fb397a71232e6"
+      },
+      {
+        "question": "If cos C = r, express tan C in terms of r, assuming C is an acute angle.",
+        "timestamp": "2025_02_24_22-07-48",
+        "hash": "1c054554c2b49b3e2ac04277e74c94aa"
+      },
+      {
+        "question": "Express tan x in terms of sin x and cos x.",
+        "timestamp": "2025_02_24_22-07-48",
+        "hash": "1a70a36179dedb70d34829ea6ecf7217"
+      },
+      {
+        "question": "If sin Y = a/b, where a and b are sides of a right triangle, express cos Y in terms of a and b.",
+        "timestamp": "2025_02_24_22-07-48",
+        "hash": "8cad098d730418bd6e6d4f6d0d4ecd1d"
+      },
+      {
+        "question": "Given tan Z = m/n, express sin Z in terms of m and n, assuming Z is acute.",
+        "timestamp": "2025_02_24_22-07-48",
+        "hash": "4275538444e16fccc9b2896e692cf20f"
+      },
+      {
+        "question": "If cos P = x/y, express sin P in terms of x and y.",
+        "timestamp": "2025_02_24_22-07-48",
+        "hash": "45191cd9143f0f16b07d96cb9be7672f"
+      }
+    ],
+    "statement": [
+      {
+        "question": "In a right-angled triangle, what is the range of values for the sine of an acute angle?",
+        "timestamp": "2025_02_24_18-45-37",
+        "success": false,
+        "hash": "f2299f86ddc09fbe133d026b7b8cbc9c"
+      },
+      {
+        "question": "What is the trigonometric ratio that represents the ratio of the opposite side to the hypotenuse in a right-angled triangle?",
+        "timestamp": "2025_02_24_18-45-37",
+        "hash": "9f44f6b1e2c0085b9aa71067310a5929"
+      },
+      {
+        "question": "What is the trigonometric ratio defined as the adjacent side divided by the hypotenuse?",
+        "timestamp": "2025_02_24_18-45-37",
+        "hash": "2be33d768bd9afcc2b42056b3989fec4"
+      },
+      {
+        "question": "Define the tangent of an angle in a right-angled triangle.",
+        "timestamp": "2025_02_24_18-45-37",
+        "hash": "70571abbbd78e780ec09bca8edd09d16"
+      },
+      {
+        "question": "As an acute angle in a right triangle increases, what happens to its sine value?",
+        "timestamp": "2025_02_24_18-45-37",
+        "hash": "9077a72dfbb7816846ca9d823baf4c2e"
+      },
+      {
+        "question": "In a right-angled triangle, if the sine of an angle is 1, what is the measure of that angle?",
+        "timestamp": "2025_02_24_18-45-37",
+        "hash": "b6c6195265ef9b3dbbacae7f288240ff"
+      },
+      {
+        "question": "What is the relationship between the sine of an angle and the cosine of its complementary angle?",
+        "timestamp": "2025_02_24_18-45-37",
+        "hash": "b1565728343d75298d15091a33733aba"
+      },
+      {
+        "question": "If the cosine of an acute angle is 0, what is the measure of the angle?",
+        "timestamp": "2025_02_24_18-45-37",
+        "hash": "23811afbdc46dcbf49047c9213c26f57"
+      },
+      {
+        "question": "What happens to the value of tan θ as θ approaches 90 degrees?",
+        "timestamp": "2025_02_24_18-45-37",
+        "hash": "1842b87fb225d10d87b733e3471cf441"
+      },
+      {
+        "question": "Explain why sin θ is always less than or equal to 1 for any acute angle θ.",
+        "timestamp": "2025_02_24_18-45-37",
+        "hash": "51da8ff5723b0b214c9a690d77dc4974"
+      },
+      {
+        "question": "In a right-angled triangle, what is the range of values for the sine of an acute angle?",
+        "timestamp": "2025_02_24_18-45-38",
+        "hash": "f2299f86ddc09fbe133d026b7b8cbc9c"
+      },
+      {
+        "question": "What is the trigonometric ratio that represents the ratio of the opposite side to the hypotenuse in a right-angled triangle?",
+        "timestamp": "2025_02_24_18-45-38",
+        "hash": "9f44f6b1e2c0085b9aa71067310a5929"
+      },
+      {
+        "question": "What is the trigonometric ratio defined as the adjacent side divided by the hypotenuse?",
+        "timestamp": "2025_02_24_18-45-38",
+        "hash": "2be33d768bd9afcc2b42056b3989fec4"
+      },
+      {
+        "question": "Define the tangent of an angle in a right-angled triangle.",
+        "timestamp": "2025_02_24_18-45-38",
+        "hash": "70571abbbd78e780ec09bca8edd09d16"
+      },
+      {
+        "question": "As an acute angle in a right triangle increases, what happens to its sine value?",
+        "timestamp": "2025_02_24_18-45-38",
+        "hash": "9077a72dfbb7816846ca9d823baf4c2e"
+      },
+      {
+        "question": "In a right-angled triangle, if the sine of an angle is 1, what is the measure of that angle?",
+        "timestamp": "2025_02_24_18-45-38",
+        "hash": "b6c6195265ef9b3dbbacae7f288240ff"
+      },
+      {
+        "question": "What is the relationship between the sine of an angle and the cosine of its complementary angle?",
+        "timestamp": "2025_02_24_18-45-38",
+        "hash": "b1565728343d75298d15091a33733aba"
+      },
+      {
+        "question": "If the cosine of an acute angle is 0, what is the measure of the angle?",
+        "timestamp": "2025_02_24_18-45-38",
+        "hash": "23811afbdc46dcbf49047c9213c26f57"
+      },
+      {
+        "question": "What happens to the value of tan θ as θ approaches 90 degrees?",
+        "timestamp": "2025_02_24_18-45-38",
+        "hash": "1842b87fb225d10d87b733e3471cf441"
+      },
+      {
+        "question": "Explain why sin θ is always less than or equal to 1 for any acute angle θ.",
+        "timestamp": "2025_02_24_18-45-38",
+        "hash": "51da8ff5723b0b214c9a690d77dc4974"
+      },
+      {
+        "question": "In a right-angled triangle, what is the range of values for the sine of an acute angle?",
+        "timestamp": "2025_02_24_22-07-47",
+        "hash": "f2299f86ddc09fbe133d026b7b8cbc9c"
+      },
+      {
+        "question": "What is the trigonometric ratio that represents the ratio of the opposite side to the hypotenuse in a right-angled triangle?",
+        "timestamp": "2025_02_24_22-07-47",
+        "hash": "9f44f6b1e2c0085b9aa71067310a5929"
+      },
+      {
+        "question": "What is the trigonometric ratio defined as the adjacent side divided by the hypotenuse?",
+        "timestamp": "2025_02_24_22-07-47",
+        "hash": "2be33d768bd9afcc2b42056b3989fec4"
+      },
+      {
+        "question": "Define the tangent of an angle in a right-angled triangle.",
+        "timestamp": "2025_02_24_22-07-47",
+        "hash": "70571abbbd78e780ec09bca8edd09d16"
+      },
+      {
+        "question": "As an acute angle in a right triangle increases, what happens to its sine value?",
+        "timestamp": "2025_02_24_22-07-47",
+        "hash": "9077a72dfbb7816846ca9d823baf4c2e"
+      },
+      {
+        "question": "In a right-angled triangle, if the sine of an angle is 1, what is the measure of that angle?",
+        "timestamp": "2025_02_24_22-07-47",
+        "hash": "b6c6195265ef9b3dbbacae7f288240ff"
+      },
+      {
+        "question": "What is the relationship between the sine of an angle and the cosine of its complementary angle?",
+        "timestamp": "2025_02_24_22-07-47",
+        "hash": "b1565728343d75298d15091a33733aba"
+      },
+      {
+        "question": "If the cosine of an acute angle is 0, what is the measure of the angle?",
+        "timestamp": "2025_02_24_22-07-47",
+        "hash": "23811afbdc46dcbf49047c9213c26f57"
+      },
+      {
+        "question": "What happens to the value of tan θ as θ approaches 90 degrees?",
+        "timestamp": "2025_02_24_22-07-47",
+        "hash": "1842b87fb225d10d87b733e3471cf441"
+      },
+      {
+        "question": "Explain why sin θ is always less than or equal to 1 for any acute angle θ.",
+        "timestamp": "2025_02_24_22-07-47",
+        "hash": "51da8ff5723b0b214c9a690d77dc4974"
+      },
+      {
+        "question": "In a right-angled triangle, what is the range of values for the sine of an acute angle?",
+        "timestamp": "2025_02_24_22-07-48",
+        "hash": "f2299f86ddc09fbe133d026b7b8cbc9c"
+      },
+      {
+        "question": "What is the trigonometric ratio that represents the ratio of the opposite side to the hypotenuse in a right-angled triangle?",
+        "timestamp": "2025_02_24_22-07-48",
+        "hash": "9f44f6b1e2c0085b9aa71067310a5929"
+      },
+      {
+        "question": "What is the trigonometric ratio defined as the adjacent side divided by the hypotenuse?",
+        "timestamp": "2025_02_24_22-07-48",
+        "hash": "2be33d768bd9afcc2b42056b3989fec4"
+      },
+      {
+        "question": "Define the tangent of an angle in a right-angled triangle.",
+        "timestamp": "2025_02_24_22-07-48",
+        "hash": "70571abbbd78e780ec09bca8edd09d16"
+      },
+      {
+        "question": "As an acute angle in a right triangle increases, what happens to its sine value?",
+        "timestamp": "2025_02_24_22-07-48",
+        "hash": "9077a72dfbb7816846ca9d823baf4c2e"
+      },
+      {
+        "question": "In a right-angled triangle, if the sine of an angle is 1, what is the measure of that angle?",
+        "timestamp": "2025_02_24_22-07-48",
+        "hash": "b6c6195265ef9b3dbbacae7f288240ff"
+      },
+      {
+        "question": "What is the relationship between the sine of an angle and the cosine of its complementary angle?",
+        "timestamp": "2025_02_24_22-07-48",
+        "hash": "b1565728343d75298d15091a33733aba"
+      },
+      {
+        "question": "If the cosine of an acute angle is 0, what is the measure of the angle?",
+        "timestamp": "2025_02_24_22-07-48",
+        "hash": "23811afbdc46dcbf49047c9213c26f57"
+      },
+      {
+        "question": "What happens to the value of tan θ as θ approaches 90 degrees?",
+        "timestamp": "2025_02_24_22-07-48",
+        "hash": "1842b87fb225d10d87b733e3471cf441"
+      },
+      {
+        "question": "Explain why sin θ is always less than or equal to 1 for any acute angle θ.",
+        "timestamp": "2025_02_24_22-07-48",
+        "hash": "51da8ff5723b0b214c9a690d77dc4974"
+      }
+    ]
+  },
+  "medium_questions": {
+    "numerical": [
+      {
+        "question": "In a right triangle ABC, right-angled at B, if sin A = 5/13, find the value of tan A + cos A.",
+        "timestamp": "2025_02_24_18-45-37",
+        "success": false,
+        "hash": "5a5260c04da6adf2cfdd9bf012ed5891"
+      },
+      {
+        "question": "If tan θ = 8/15, find the value of (sin θ + cos θ).",
+        "timestamp": "2025_02_24_18-45-37",
+        "hash": "4b259cd69c64c188c89e70795f8cc600"
+      },
+      {
+        "question": "Given that sin A = 0.6 and cos A = 0.8, find the value of tan A + 1/tan A.",
+        "timestamp": "2025_02_24_18-45-37",
+        "hash": "9fd8b25052ad4651fb83bc043e5abe86"
+      },
+      {
+        "question": "In a right triangle PQR, right-angled at Q, PQ = 3 cm and PR = 5 cm. Find the value of sin R + cos R.",
+        "timestamp": "2025_02_24_18-45-37",
+        "hash": "3204f205ec420df2ff31d9a96d1af8f0"
+      },
+      {
+        "question": "If 5sin θ = 3, find the value of (sec θ + tan θ) / (sec θ - tan θ). Note: sec θ = 1/cos θ.",
+        "timestamp": "2025_02_24_18-45-37",
+        "hash": "ef847ccd37a65efc350bb40d4009cb75"
+      },
+      {
+        "question": "In a right triangle, if sin A = 7/25, calculate the value of (1 + tan^2 A).",
+        "timestamp": "2025_02_24_18-45-37",
+        "hash": "0d3c05b535bd44cce7a8f28de5b1de55"
+      },
+      {
+        "question": "If cos B = 1/2, find the value of 3sin B - 4sin^3 B.",
+        "timestamp": "2025_02_24_18-45-37",
+        "hash": "aa6d9ca098ed1a2f2a6c13ccc784bae8"
+      },
+      {
+        "question": "Given a right triangle with angle θ, where sin θ = 12/13, find the value of  cos θ + tan θ.",
+        "timestamp": "2025_02_24_18-45-37",
+        "hash": "3be62576f62d151d7fa84bfc0a08855d"
+      },
+      {
+        "question": "In a right triangle ABC, right-angled at B, AB = 24 cm and BC = 7 cm. Calculate sin A + cos A.",
+        "timestamp": "2025_02_24_18-45-37",
+        "hash": "01a4860321d16c4e4f94a2f73db90d0c"
+      },
+      {
+        "question": "If 13sin A = 5, find the value of (5sin A - 2cos A) / tan A.",
+        "timestamp": "2025_02_24_18-45-37",
+        "hash": "e5d6677d90843779089c8c3379a212b0"
+      },
+      {
+        "question": "In a right triangle ABC, right-angled at B, if sin A = 5/13, find the value of tan A + cos A.",
+        "timestamp": "2025_02_24_18-45-38",
+        "hash": "5a5260c04da6adf2cfdd9bf012ed5891"
+      },
+      {
+        "question": "If tan θ = 8/15, find the value of (sin θ + cos θ).",
+        "timestamp": "2025_02_24_18-45-38",
+        "hash": "4b259cd69c64c188c89e70795f8cc600"
+      },
+      {
+        "question": "Given that sin A = 0.6 and cos A = 0.8, find the value of tan A + 1/tan A.",
+        "timestamp": "2025_02_24_18-45-38",
+        "hash": "9fd8b25052ad4651fb83bc043e5abe86"
+      },
+      {
+        "question": "In a right triangle PQR, right-angled at Q, PQ = 3 cm and PR = 5 cm. Find the value of sin R + cos R.",
+        "timestamp": "2025_02_24_18-45-38",
+        "hash": "3204f205ec420df2ff31d9a96d1af8f0"
+      },
+      {
+        "question": "If 5sin θ = 3, find the value of (sec θ + tan θ) / (sec θ - tan θ). Note: sec θ = 1/cos θ.",
+        "timestamp": "2025_02_24_18-45-38",
+        "hash": "ef847ccd37a65efc350bb40d4009cb75"
+      },
+      {
+        "question": "In a right triangle, if sin A = 7/25, calculate the value of (1 + tan^2 A).",
+        "timestamp": "2025_02_24_18-45-38",
+        "hash": "0d3c05b535bd44cce7a8f28de5b1de55"
+      },
+      {
+        "question": "If cos B = 1/2, find the value of 3sin B - 4sin^3 B.",
+        "timestamp": "2025_02_24_18-45-38",
+        "hash": "aa6d9ca098ed1a2f2a6c13ccc784bae8"
+      },
+      {
+        "question": "Given a right triangle with angle θ, where sin θ = 12/13, find the value of  cos θ + tan θ.",
+        "timestamp": "2025_02_24_18-45-38",
+        "hash": "3be62576f62d151d7fa84bfc0a08855d"
+      },
+      {
+        "question": "In a right triangle ABC, right-angled at B, AB = 24 cm and BC = 7 cm. Calculate sin A + cos A.",
+        "timestamp": "2025_02_24_18-45-38",
+        "hash": "01a4860321d16c4e4f94a2f73db90d0c"
+      },
+      {
+        "question": "If 13sin A = 5, find the value of (5sin A - 2cos A) / tan A.",
+        "timestamp": "2025_02_24_18-45-38",
+        "hash": "e5d6677d90843779089c8c3379a212b0"
+      },
+      {
+        "question": "In a right triangle ABC, right-angled at B, if sin A = 5/13, find the value of tan A + cos A.",
+        "timestamp": "2025_02_24_22-07-47",
+        "hash": "5a5260c04da6adf2cfdd9bf012ed5891"
+      },
+      {
+        "question": "If tan θ = 8/15, find the value of (sin θ + cos θ).",
+        "timestamp": "2025_02_24_22-07-47",
+        "hash": "4b259cd69c64c188c89e70795f8cc600"
+      },
+      {
+        "question": "Given that sin A = 0.6 and cos A = 0.8, find the value of tan A + 1/tan A.",
+        "timestamp": "2025_02_24_22-07-47",
+        "hash": "9fd8b25052ad4651fb83bc043e5abe86"
+      },
+      {
+        "question": "In a right triangle PQR, right-angled at Q, PQ = 3 cm and PR = 5 cm. Find the value of sin R + cos R.",
+        "timestamp": "2025_02_24_22-07-47",
+        "hash": "3204f205ec420df2ff31d9a96d1af8f0"
+      },
+      {
+        "question": "If 5sin θ = 3, find the value of (sec θ + tan θ) / (sec θ - tan θ). Note: sec θ = 1/cos θ.",
+        "timestamp": "2025_02_24_22-07-47",
+        "hash": "ef847ccd37a65efc350bb40d4009cb75"
+      },
+      {
+        "question": "In a right triangle, if sin A = 7/25, calculate the value of (1 + tan^2 A).",
+        "timestamp": "2025_02_24_22-07-47",
+        "hash": "0d3c05b535bd44cce7a8f28de5b1de55"
+      },
+      {
+        "question": "If cos B = 1/2, find the value of 3sin B - 4sin^3 B.",
+        "timestamp": "2025_02_24_22-07-47",
+        "hash": "aa6d9ca098ed1a2f2a6c13ccc784bae8"
+      },
+      {
+        "question": "Given a right triangle with angle θ, where sin θ = 12/13, find the value of  cos θ + tan θ.",
+        "timestamp": "2025_02_24_22-07-47",
+        "hash": "3be62576f62d151d7fa84bfc0a08855d"
+      },
+      {
+        "question": "In a right triangle ABC, right-angled at B, AB = 24 cm and BC = 7 cm. Calculate sin A + cos A.",
+        "timestamp": "2025_02_24_22-07-47",
+        "hash": "01a4860321d16c4e4f94a2f73db90d0c"
+      },
+      {
+        "question": "If 13sin A = 5, find the value of (5sin A - 2cos A) / tan A.",
+        "timestamp": "2025_02_24_22-07-47",
+        "hash": "e5d6677d90843779089c8c3379a212b0"
+      },
+      {
+        "question": "In a right triangle ABC, right-angled at B, if sin A = 5/13, find the value of tan A + cos A.",
+        "timestamp": "2025_02_24_22-07-48",
+        "hash": "5a5260c04da6adf2cfdd9bf012ed5891"
+      },
+      {
+        "question": "If tan θ = 8/15, find the value of (sin θ + cos θ).",
+        "timestamp": "2025_02_24_22-07-48",
+        "hash": "4b259cd69c64c188c89e70795f8cc600"
+      },
+      {
+        "question": "Given that sin A = 0.6 and cos A = 0.8, find the value of tan A + 1/tan A.",
+        "timestamp": "2025_02_24_22-07-48",
+        "hash": "9fd8b25052ad4651fb83bc043e5abe86"
+      },
+      {
+        "question": "In a right triangle PQR, right-angled at Q, PQ = 3 cm and PR = 5 cm. Find the value of sin R + cos R.",
+        "timestamp": "2025_02_24_22-07-48",
+        "hash": "3204f205ec420df2ff31d9a96d1af8f0"
+      },
+      {
+        "question": "If 5sin θ = 3, find the value of (sec θ + tan θ) / (sec θ - tan θ). Note: sec θ = 1/cos θ.",
+        "timestamp": "2025_02_24_22-07-48",
+        "hash": "ef847ccd37a65efc350bb40d4009cb75"
+      },
+      {
+        "question": "In a right triangle, if sin A = 7/25, calculate the value of (1 + tan^2 A).",
+        "timestamp": "2025_02_24_22-07-48",
+        "hash": "0d3c05b535bd44cce7a8f28de5b1de55"
+      },
+      {
+        "question": "If cos B = 1/2, find the value of 3sin B - 4sin^3 B.",
+        "timestamp": "2025_02_24_22-07-48",
+        "hash": "aa6d9ca098ed1a2f2a6c13ccc784bae8"
+      },
+      {
+        "question": "Given a right triangle with angle θ, where sin θ = 12/13, find the value of  cos θ + tan θ.",
+        "timestamp": "2025_02_24_22-07-48",
+        "hash": "3be62576f62d151d7fa84bfc0a08855d"
+      },
+      {
+        "question": "In a right triangle ABC, right-angled at B, AB = 24 cm and BC = 7 cm. Calculate sin A + cos A.",
+        "timestamp": "2025_02_24_22-07-48",
+        "hash": "01a4860321d16c4e4f94a2f73db90d0c"
+      },
+      {
+        "question": "If 13sin A = 5, find the value of (5sin A - 2cos A) / tan A.",
+        "timestamp": "2025_02_24_22-07-48",
+        "hash": "e5d6677d90843779089c8c3379a212b0"
+      }
+    ],
+    "symbolic": [
+      {
+        "question": "If sin A = x and cos A = y, simplify the expression (tan A + 1/tan A) in terms of x and y.",
+        "timestamp": "2025_02_24_18-45-37",
+        "success": false,
+        "hash": "9aa31bc346393b89110b4f85c8a7d341"
+      },
+      {
+        "question": "Simplify the expression: (sin A / cos A) + (cos A / sin A).",
+        "timestamp": "2025_02_24_18-45-37",
+        "hash": "91a0ad346c84374b80f91a1103e1c347"
+      },
+      {
+        "question": "If tan θ = a/b, express (sin θ + cos θ)^2 in terms of a and b.",
+        "timestamp": "2025_02_24_18-45-37",
+        "hash": "824f1d9477d39ad053dfe5018c27e3e1"
+      },
+      {
+        "question": "Simplify (1 - sin^2 A) / cos A.",
+        "timestamp": "2025_02_24_18-45-37",
+        "hash": "c431b3815a2430100a233bcc26b7287a"
+      },
+      {
+        "question": "Express (1 + tan^2 A) in terms of cos A.",
+        "timestamp": "2025_02_24_18-45-37",
+        "hash": "33ecb6787f890ce15c0d7c5ccf9a8bf7"
+      },
+      {
+        "question": "Simplify (cos^2 A) / (1 - sin A) - sin A.",
+        "timestamp": "2025_02_24_18-45-37",
+        "hash": "0ae2f253a7c52a33323195abaa920763"
+      },
+      {
+        "question": "Express sin^2 θ + cos^2 θ + tan^2 θ in terms of cos θ.",
+        "timestamp": "2025_02_24_18-45-37",
+        "hash": "552f6b3f525ac201558429243c071757"
+      },
+      {
+        "question": "If sin x = p and cos x = q, simplify p^2 + q^2.",
+        "timestamp": "2025_02_24_18-45-37",
+        "hash": "38cb7465b32399ec48fbfb9cfe7ab295"
+      },
+      {
+        "question": "Simplify (1/cos^2 A) - tan^2 A.",
+        "timestamp": "2025_02_24_18-45-37",
+        "hash": "9caf15b2fda66a0b107faf9deafad41d"
+      },
+      {
+        "question": "Express 1 + cot^2 A in terms of sin A. (Note: cot A = 1/tan A)",
+        "timestamp": "2025_02_24_18-45-37",
+        "hash": "176b1fee003004a5708074839c58757d"
+      },
+      {
+        "question": "If sin A = x and cos A = y, simplify the expression (tan A + 1/tan A) in terms of x and y.",
+        "timestamp": "2025_02_24_18-45-38",
+        "hash": "9aa31bc346393b89110b4f85c8a7d341"
+      },
+      {
+        "question": "Simplify the expression: (sin A / cos A) + (cos A / sin A).",
+        "timestamp": "2025_02_24_18-45-38",
+        "hash": "91a0ad346c84374b80f91a1103e1c347"
+      },
+      {
+        "question": "If tan θ = a/b, express (sin θ + cos θ)^2 in terms of a and b.",
+        "timestamp": "2025_02_24_18-45-38",
+        "hash": "824f1d9477d39ad053dfe5018c27e3e1"
+      },
+      {
+        "question": "Simplify (1 - sin^2 A) / cos A.",
+        "timestamp": "2025_02_24_18-45-38",
+        "hash": "c431b3815a2430100a233bcc26b7287a"
+      },
+      {
+        "question": "Express (1 + tan^2 A) in terms of cos A.",
+        "timestamp": "2025_02_24_18-45-38",
+        "hash": "33ecb6787f890ce15c0d7c5ccf9a8bf7"
+      },
+      {
+        "question": "Simplify (cos^2 A) / (1 - sin A) - sin A.",
+        "timestamp": "2025_02_24_18-45-38",
+        "hash": "0ae2f253a7c52a33323195abaa920763"
+      },
+      {
+        "question": "Express sin^2 θ + cos^2 θ + tan^2 θ in terms of cos θ.",
+        "timestamp": "2025_02_24_18-45-38",
+        "hash": "552f6b3f525ac201558429243c071757"
+      },
+      {
+        "question": "If sin x = p and cos x = q, simplify p^2 + q^2.",
+        "timestamp": "2025_02_24_18-45-38",
+        "hash": "38cb7465b32399ec48fbfb9cfe7ab295"
+      },
+      {
+        "question": "Simplify (1/cos^2 A) - tan^2 A.",
+        "timestamp": "2025_02_24_18-45-38",
+        "hash": "9caf15b2fda66a0b107faf9deafad41d"
+      },
+      {
+        "question": "Express 1 + cot^2 A in terms of sin A. (Note: cot A = 1/tan A)",
+        "timestamp": "2025_02_24_18-45-38",
+        "hash": "176b1fee003004a5708074839c58757d"
+      },
+      {
+        "question": "If sin A = x and cos A = y, simplify the expression (tan A + 1/tan A) in terms of x and y.",
+        "timestamp": "2025_02_24_22-07-47",
+        "hash": "9aa31bc346393b89110b4f85c8a7d341"
+      },
+      {
+        "question": "Simplify the expression: (sin A / cos A) + (cos A / sin A).",
+        "timestamp": "2025_02_24_22-07-47",
+        "hash": "91a0ad346c84374b80f91a1103e1c347"
+      },
+      {
+        "question": "If tan θ = a/b, express (sin θ + cos θ)^2 in terms of a and b.",
+        "timestamp": "2025_02_24_22-07-47",
+        "hash": "824f1d9477d39ad053dfe5018c27e3e1"
+      },
+      {
+        "question": "Simplify (1 - sin^2 A) / cos A.",
+        "timestamp": "2025_02_24_22-07-47",
+        "hash": "c431b3815a2430100a233bcc26b7287a"
+      },
+      {
+        "question": "Express (1 + tan^2 A) in terms of cos A.",
+        "timestamp": "2025_02_24_22-07-47",
+        "hash": "33ecb6787f890ce15c0d7c5ccf9a8bf7"
+      },
+      {
+        "question": "Simplify (cos^2 A) / (1 - sin A) - sin A.",
+        "timestamp": "2025_02_24_22-07-47",
+        "hash": "0ae2f253a7c52a33323195abaa920763"
+      },
+      {
+        "question": "Express sin^2 θ + cos^2 θ + tan^2 θ in terms of cos θ.",
+        "timestamp": "2025_02_24_22-07-47",
+        "hash": "552f6b3f525ac201558429243c071757"
+      },
+      {
+        "question": "If sin x = p and cos x = q, simplify p^2 + q^2.",
+        "timestamp": "2025_02_24_22-07-47",
+        "hash": "38cb7465b32399ec48fbfb9cfe7ab295"
+      },
+      {
+        "question": "Simplify (1/cos^2 A) - tan^2 A.",
+        "timestamp": "2025_02_24_22-07-47",
+        "hash": "9caf15b2fda66a0b107faf9deafad41d"
+      },
+      {
+        "question": "Express 1 + cot^2 A in terms of sin A. (Note: cot A = 1/tan A)",
+        "timestamp": "2025_02_24_22-07-47",
+        "hash": "176b1fee003004a5708074839c58757d"
+      },
+      {
+        "question": "If sin A = x and cos A = y, simplify the expression (tan A + 1/tan A) in terms of x and y.",
+        "timestamp": "2025_02_24_22-07-48",
+        "hash": "9aa31bc346393b89110b4f85c8a7d341"
+      },
+      {
+        "question": "Simplify the expression: (sin A / cos A) + (cos A / sin A).",
+        "timestamp": "2025_02_24_22-07-48",
+        "hash": "91a0ad346c84374b80f91a1103e1c347"
+      },
+      {
+        "question": "If tan θ = a/b, express (sin θ + cos θ)^2 in terms of a and b.",
+        "timestamp": "2025_02_24_22-07-48",
+        "hash": "824f1d9477d39ad053dfe5018c27e3e1"
+      },
+      {
+        "question": "Simplify (1 - sin^2 A) / cos A.",
+        "timestamp": "2025_02_24_22-07-48",
+        "hash": "c431b3815a2430100a233bcc26b7287a"
+      },
+      {
+        "question": "Express (1 + tan^2 A) in terms of cos A.",
+        "timestamp": "2025_02_24_22-07-48",
+        "hash": "33ecb6787f890ce15c0d7c5ccf9a8bf7"
+      },
+      {
+        "question": "Simplify (cos^2 A) / (1 - sin A) - sin A.",
+        "timestamp": "2025_02_24_22-07-48",
+        "hash": "0ae2f253a7c52a33323195abaa920763"
+      },
+      {
+        "question": "Express sin^2 θ + cos^2 θ + tan^2 θ in terms of cos θ.",
+        "timestamp": "2025_02_24_22-07-48",
+        "hash": "552f6b3f525ac201558429243c071757"
+      },
+      {
+        "question": "If sin x = p and cos x = q, simplify p^2 + q^2.",
+        "timestamp": "2025_02_24_22-07-48",
+        "hash": "38cb7465b32399ec48fbfb9cfe7ab295"
+      },
+      {
+        "question": "Simplify (1/cos^2 A) - tan^2 A.",
+        "timestamp": "2025_02_24_22-07-48",
+        "hash": "9caf15b2fda66a0b107faf9deafad41d"
+      },
+      {
+        "question": "Express 1 + cot^2 A in terms of sin A. (Note: cot A = 1/tan A)",
+        "timestamp": "2025_02_24_22-07-48",
+        "hash": "176b1fee003004a5708074839c58757d"
+      }
+    ],
+    "statement": [
+      {
+        "question": "Explain why the value of tan A can be greater than 1, while sin A cannot.",
+        "timestamp": "2025_02_24_18-45-37",
+        "success": false,
+        "hash": "7044c5039340a07be91bc498f23e2248"
+      },
+      {
+        "question": "Explain the relationship between sin^2 A and cos^2 A.",
+        "timestamp": "2025_02_24_18-45-37",
+        "hash": "daa86e4026c9308f93a459a275ec3e52"
+      },
+      {
+        "question": "Describe how you would find the value of cos A if you know the value of sin A and that A is an acute angle.",
+        "timestamp": "2025_02_24_18-45-37",
+        "hash": "e18e13b87d623cbc81a6fcd14577e643"
+      },
+      {
+        "question": "What happens to the value of cos θ as θ increases from 0° to 90°?",
+        "timestamp": "2025_02_24_18-45-37",
+        "hash": "356d089e301c8285f2d1183694754922"
+      },
+      {
+        "question": "Explain why sin(90° - A) = cos A for any acute angle A.",
+        "timestamp": "2025_02_24_18-45-37",
+        "hash": "60eb8a1d725670f16f289087df3b100b"
+      },
+      {
+        "question": "How can you determine the value of tan A if you are given sin A and cos A?",
+        "timestamp": "2025_02_24_18-45-37",
+        "hash": "b44e04825acb49640eb61e3172af66bc"
+      },
+      {
+        "question": "Explain the meaning of complementary angles in the context of sine and cosine.",
+        "timestamp": "2025_02_24_18-45-37",
+        "hash": "2bfba4e47b1ee6cfc949401da9fa5c0a"
+      },
+      {
+        "question": "Is it possible for sin A to be equal to cos A for some acute angle A? If so, what is the value of A?",
+        "timestamp": "2025_02_24_18-45-37",
+        "hash": "ea3d27bd939000330b0335375994173f"
+      },
+      {
+        "question": "Explain why the hypotenuse is always the longest side in a right-angled triangle, in relation to trigonometric ratios.",
+        "timestamp": "2025_02_24_18-45-37",
+        "hash": "491b18c707bce1c5dc3affbd398163f9"
+      },
+      {
+        "question": "Describe the relationship between the sides of a 30-60-90 right triangle and the trigonometric ratios of 30 and 60 degrees.",
+        "timestamp": "2025_02_24_18-45-37",
+        "hash": "88d84c14d4d7eb2d8551f526cb83d2a2"
+      },
+      {
+        "question": "Explain why the value of tan A can be greater than 1, while sin A cannot.",
+        "timestamp": "2025_02_24_18-45-38",
+        "hash": "7044c5039340a07be91bc498f23e2248"
+      },
+      {
+        "question": "Explain the relationship between sin^2 A and cos^2 A.",
+        "timestamp": "2025_02_24_18-45-38",
+        "hash": "daa86e4026c9308f93a459a275ec3e52"
+      },
+      {
+        "question": "Describe how you would find the value of cos A if you know the value of sin A and that A is an acute angle.",
+        "timestamp": "2025_02_24_18-45-38",
+        "hash": "e18e13b87d623cbc81a6fcd14577e643"
+      },
+      {
+        "question": "What happens to the value of cos θ as θ increases from 0° to 90°?",
+        "timestamp": "2025_02_24_18-45-38",
+        "hash": "356d089e301c8285f2d1183694754922"
+      },
+      {
+        "question": "Explain why sin(90° - A) = cos A for any acute angle A.",
+        "timestamp": "2025_02_24_18-45-38",
+        "hash": "60eb8a1d725670f16f289087df3b100b"
+      },
+      {
+        "question": "How can you determine the value of tan A if you are given sin A and cos A?",
+        "timestamp": "2025_02_24_18-45-38",
+        "hash": "b44e04825acb49640eb61e3172af66bc"
+      },
+      {
+        "question": "Explain the meaning of complementary angles in the context of sine and cosine.",
+        "timestamp": "2025_02_24_18-45-38",
+        "hash": "2bfba4e47b1ee6cfc949401da9fa5c0a"
+      },
+      {
+        "question": "Is it possible for sin A to be equal to cos A for some acute angle A? If so, what is the value of A?",
+        "timestamp": "2025_02_24_18-45-38",
+        "hash": "ea3d27bd939000330b0335375994173f"
+      },
+      {
+        "question": "Explain why the hypotenuse is always the longest side in a right-angled triangle, in relation to trigonometric ratios.",
+        "timestamp": "2025_02_24_18-45-38",
+        "hash": "491b18c707bce1c5dc3affbd398163f9"
+      },
+      {
+        "question": "Describe the relationship between the sides of a 30-60-90 right triangle and the trigonometric ratios of 30 and 60 degrees.",
+        "timestamp": "2025_02_24_18-45-38",
+        "hash": "88d84c14d4d7eb2d8551f526cb83d2a2"
+      },
+      {
+        "question": "Explain why the value of tan A can be greater than 1, while sin A cannot.",
+        "timestamp": "2025_02_24_22-07-47",
+        "hash": "7044c5039340a07be91bc498f23e2248"
+      },
+      {
+        "question": "Explain the relationship between sin^2 A and cos^2 A.",
+        "timestamp": "2025_02_24_22-07-47",
+        "hash": "daa86e4026c9308f93a459a275ec3e52"
+      },
+      {
+        "question": "Describe how you would find the value of cos A if you know the value of sin A and that A is an acute angle.",
+        "timestamp": "2025_02_24_22-07-47",
+        "hash": "e18e13b87d623cbc81a6fcd14577e643"
+      },
+      {
+        "question": "What happens to the value of cos θ as θ increases from 0° to 90°?",
+        "timestamp": "2025_02_24_22-07-47",
+        "hash": "356d089e301c8285f2d1183694754922"
+      },
+      {
+        "question": "Explain why sin(90° - A) = cos A for any acute angle A.",
+        "timestamp": "2025_02_24_22-07-47",
+        "hash": "60eb8a1d725670f16f289087df3b100b"
+      },
+      {
+        "question": "How can you determine the value of tan A if you are given sin A and cos A?",
+        "timestamp": "2025_02_24_22-07-47",
+        "hash": "b44e04825acb49640eb61e3172af66bc"
+      },
+      {
+        "question": "Explain the meaning of complementary angles in the context of sine and cosine.",
+        "timestamp": "2025_02_24_22-07-47",
+        "hash": "2bfba4e47b1ee6cfc949401da9fa5c0a"
+      },
+      {
+        "question": "Is it possible for sin A to be equal to cos A for some acute angle A? If so, what is the value of A?",
+        "timestamp": "2025_02_24_22-07-47",
+        "hash": "ea3d27bd939000330b0335375994173f"
+      },
+      {
+        "question": "Explain why the hypotenuse is always the longest side in a right-angled triangle, in relation to trigonometric ratios.",
+        "timestamp": "2025_02_24_22-07-47",
+        "hash": "491b18c707bce1c5dc3affbd398163f9"
+      },
+      {
+        "question": "Describe the relationship between the sides of a 30-60-90 right triangle and the trigonometric ratios of 30 and 60 degrees.",
+        "timestamp": "2025_02_24_22-07-47",
+        "hash": "88d84c14d4d7eb2d8551f526cb83d2a2"
+      },
+      {
+        "question": "Explain why the value of tan A can be greater than 1, while sin A cannot.",
+        "timestamp": "2025_02_24_22-07-48",
+        "hash": "7044c5039340a07be91bc498f23e2248"
+      },
+      {
+        "question": "Explain the relationship between sin^2 A and cos^2 A.",
+        "timestamp": "2025_02_24_22-07-48",
+        "hash": "daa86e4026c9308f93a459a275ec3e52"
+      },
+      {
+        "question": "Describe how you would find the value of cos A if you know the value of sin A and that A is an acute angle.",
+        "timestamp": "2025_02_24_22-07-48",
+        "hash": "e18e13b87d623cbc81a6fcd14577e643"
+      },
+      {
+        "question": "What happens to the value of cos θ as θ increases from 0° to 90°?",
+        "timestamp": "2025_02_24_22-07-48",
+        "hash": "356d089e301c8285f2d1183694754922"
+      },
+      {
+        "question": "Explain why sin(90° - A) = cos A for any acute angle A.",
+        "timestamp": "2025_02_24_22-07-48",
+        "hash": "60eb8a1d725670f16f289087df3b100b"
+      },
+      {
+        "question": "How can you determine the value of tan A if you are given sin A and cos A?",
+        "timestamp": "2025_02_24_22-07-48",
+        "hash": "b44e04825acb49640eb61e3172af66bc"
+      },
+      {
+        "question": "Explain the meaning of complementary angles in the context of sine and cosine.",
+        "timestamp": "2025_02_24_22-07-48",
+        "hash": "2bfba4e47b1ee6cfc949401da9fa5c0a"
+      },
+      {
+        "question": "Is it possible for sin A to be equal to cos A for some acute angle A? If so, what is the value of A?",
+        "timestamp": "2025_02_24_22-07-48",
+        "hash": "ea3d27bd939000330b0335375994173f"
+      },
+      {
+        "question": "Explain why the hypotenuse is always the longest side in a right-angled triangle, in relation to trigonometric ratios.",
+        "timestamp": "2025_02_24_22-07-48",
+        "hash": "491b18c707bce1c5dc3affbd398163f9"
+      },
+      {
+        "question": "Describe the relationship between the sides of a 30-60-90 right triangle and the trigonometric ratios of 30 and 60 degrees.",
+        "timestamp": "2025_02_24_22-07-48",
+        "hash": "88d84c14d4d7eb2d8551f526cb83d2a2"
+      }
+    ]
+  },
+  "hard_questions": {
+    "numerical": [
+      {
+        "question": "If sin A + cos A = 7/5, and A is an acute angle, find the value of sin A * cos A.",
+        "timestamp": "2025_02_24_18-45-37",
+        "success": false,
+        "hash": "003d24022739171bcebeb7321a0249b2"
+      },
+      {
+        "question": "If tan θ = 2, find the value of (sin θ + cos θ) / (cos θ - sin θ).",
+        "timestamp": "2025_02_24_18-45-37",
+        "success": false,
+        "hash": "f48a83a7cb93434c0da8cbc10a9af201"
+      },
+      {
+        "question": "Given that 1 + sin^2 A = 3sin A cos A, find the value of tan A.",
+        "timestamp": "2025_02_24_18-45-37",
+        "hash": "f1ad72c1bbacbcb7ff3cc0fdb9c9049b"
+      },
+      {
+        "question": "In a right triangle ABC, right-angled at B, if sin A = cos A, find the value of 2tan A + cos^2 A.",
+        "timestamp": "2025_02_24_18-45-37",
+        "hash": "b23879ed226f4f82da98b61ed4bbb232"
+      },
+      {
+        "question": "If 7sin^2 θ + 3cos^2 θ = 4, find the value of tan θ, where θ is an acute angle.",
+        "timestamp": "2025_02_24_18-45-37",
+        "hash": "56086e06ea121d1995f652a15d41b91d"
+      },
+      {
+        "question": "If sin A + sin^2 A = 1, find the value of cos^2 A + cos^4 A.",
+        "timestamp": "2025_02_24_18-45-37",
+        "hash": "be6b77f72f3d69351a6222abea2204a2"
+      },
+      {
+        "question": "If tan x = 1/7 and tan y = 1/3, and x and y are acute angles, find the value of sin(x+y)/cos(x+y) without finding x and y individually. (Hint: Use the identity tan(x+y) = (tan x + tan y) / (1 - tan x * tan y))",
+        "timestamp": "2025_02_24_18-45-37",
+        "hash": "866943c748476d583e42e47906d3beaf"
+      },
+      {
+        "question": "If cos θ - sin θ = 1/2, find the value of cos θ + sin θ, where θ is an acute angle.",
+        "timestamp": "2025_02_24_18-45-37",
+        "hash": "453e4c3d1c3282cb734272b61192d15e"
+      },
+      {
+        "question": "Given that sin A = 3/5, find the value of (tan A + sec A)^2. (Note: sec A = 1/cos A)",
+        "timestamp": "2025_02_24_18-45-37",
+        "hash": "c982ea246382b60a0f3cc17e56a38dd0"
+      },
+      {
+        "question": "If sin x + cos x = √2, find the value of sin x * cos x.",
+        "timestamp": "2025_02_24_18-45-37",
+        "hash": "3339c3ad436714f7a01a74908bbdb9c1"
+      },
+      {
+        "question": "If sin A + cos A = 7/5, and A is an acute angle, find the value of sin A * cos A.",
+        "timestamp": "2025_02_24_18-45-38",
+        "hash": "003d24022739171bcebeb7321a0249b2"
+      },
+      {
+        "question": "If tan θ = 2, find the value of (sin θ + cos θ) / (cos θ - sin θ).",
+        "timestamp": "2025_02_24_18-45-38",
+        "hash": "f48a83a7cb93434c0da8cbc10a9af201"
+      },
+      {
+        "question": "Given that 1 + sin^2 A = 3sin A cos A, find the value of tan A.",
+        "timestamp": "2025_02_24_18-45-38",
+        "hash": "f1ad72c1bbacbcb7ff3cc0fdb9c9049b"
+      },
+      {
+        "question": "In a right triangle ABC, right-angled at B, if sin A = cos A, find the value of 2tan A + cos^2 A.",
+        "timestamp": "2025_02_24_18-45-38",
+        "hash": "b23879ed226f4f82da98b61ed4bbb232"
+      },
+      {
+        "question": "If 7sin^2 θ + 3cos^2 θ = 4, find the value of tan θ, where θ is an acute angle.",
+        "timestamp": "2025_02_24_18-45-38",
+        "hash": "56086e06ea121d1995f652a15d41b91d"
+      },
+      {
+        "question": "If sin A + sin^2 A = 1, find the value of cos^2 A + cos^4 A.",
+        "timestamp": "2025_02_24_18-45-38",
+        "hash": "be6b77f72f3d69351a6222abea2204a2"
+      },
+      {
+        "question": "If tan x = 1/7 and tan y = 1/3, and x and y are acute angles, find the value of sin(x+y)/cos(x+y) without finding x and y individually. (Hint: Use the identity tan(x+y) = (tan x + tan y) / (1 - tan x * tan y))",
+        "timestamp": "2025_02_24_18-45-38",
+        "hash": "866943c748476d583e42e47906d3beaf"
+      },
+      {
+        "question": "If cos θ - sin θ = 1/2, find the value of cos θ + sin θ, where θ is an acute angle.",
+        "timestamp": "2025_02_24_18-45-38",
+        "hash": "453e4c3d1c3282cb734272b61192d15e"
+      },
+      {
+        "question": "Given that sin A = 3/5, find the value of (tan A + sec A)^2. (Note: sec A = 1/cos A)",
+        "timestamp": "2025_02_24_18-45-38",
+        "hash": "c982ea246382b60a0f3cc17e56a38dd0"
+      },
+      {
+        "question": "If sin x + cos x = √2, find the value of sin x * cos x.",
+        "timestamp": "2025_02_24_18-45-38",
+        "hash": "3339c3ad436714f7a01a74908bbdb9c1"
+      },
+      {
+        "question": "If sin A + cos A = 7/5, and A is an acute angle, find the value of sin A * cos A.",
+        "timestamp": "2025_02_24_22-07-47",
+        "hash": "003d24022739171bcebeb7321a0249b2"
+      },
+      {
+        "question": "If tan θ = 2, find the value of (sin θ + cos θ) / (cos θ - sin θ).",
+        "timestamp": "2025_02_24_22-07-47",
+        "hash": "f48a83a7cb93434c0da8cbc10a9af201"
+      },
+      {
+        "question": "Given that 1 + sin^2 A = 3sin A cos A, find the value of tan A.",
+        "timestamp": "2025_02_24_22-07-47",
+        "hash": "f1ad72c1bbacbcb7ff3cc0fdb9c9049b"
+      },
+      {
+        "question": "In a right triangle ABC, right-angled at B, if sin A = cos A, find the value of 2tan A + cos^2 A.",
+        "timestamp": "2025_02_24_22-07-47",
+        "hash": "b23879ed226f4f82da98b61ed4bbb232"
+      },
+      {
+        "question": "If 7sin^2 θ + 3cos^2 θ = 4, find the value of tan θ, where θ is an acute angle.",
+        "timestamp": "2025_02_24_22-07-47",
+        "hash": "56086e06ea121d1995f652a15d41b91d"
+      },
+      {
+        "question": "If sin A + sin^2 A = 1, find the value of cos^2 A + cos^4 A.",
+        "timestamp": "2025_02_24_22-07-47",
+        "hash": "be6b77f72f3d69351a6222abea2204a2"
+      },
+      {
+        "question": "If tan x = 1/7 and tan y = 1/3, and x and y are acute angles, find the value of sin(x+y)/cos(x+y) without finding x and y individually. (Hint: Use the identity tan(x+y) = (tan x + tan y) / (1 - tan x * tan y))",
+        "timestamp": "2025_02_24_22-07-47",
+        "hash": "866943c748476d583e42e47906d3beaf"
+      },
+      {
+        "question": "If cos θ - sin θ = 1/2, find the value of cos θ + sin θ, where θ is an acute angle.",
+        "timestamp": "2025_02_24_22-07-47",
+        "hash": "453e4c3d1c3282cb734272b61192d15e"
+      },
+      {
+        "question": "Given that sin A = 3/5, find the value of (tan A + sec A)^2. (Note: sec A = 1/cos A)",
+        "timestamp": "2025_02_24_22-07-47",
+        "hash": "c982ea246382b60a0f3cc17e56a38dd0"
+      },
+      {
+        "question": "If sin x + cos x = √2, find the value of sin x * cos x.",
+        "timestamp": "2025_02_24_22-07-47",
+        "hash": "3339c3ad436714f7a01a74908bbdb9c1"
+      },
+      {
+        "question": "If sin A + cos A = 7/5, and A is an acute angle, find the value of sin A * cos A.",
+        "timestamp": "2025_02_24_22-07-48",
+        "hash": "003d24022739171bcebeb7321a0249b2"
+      },
+      {
+        "question": "If tan θ = 2, find the value of (sin θ + cos θ) / (cos θ - sin θ).",
+        "timestamp": "2025_02_24_22-07-48",
+        "hash": "f48a83a7cb93434c0da8cbc10a9af201"
+      },
+      {
+        "question": "Given that 1 + sin^2 A = 3sin A cos A, find the value of tan A.",
+        "timestamp": "2025_02_24_22-07-48",
+        "hash": "f1ad72c1bbacbcb7ff3cc0fdb9c9049b"
+      },
+      {
+        "question": "In a right triangle ABC, right-angled at B, if sin A = cos A, find the value of 2tan A + cos^2 A.",
+        "timestamp": "2025_02_24_22-07-48",
+        "hash": "b23879ed226f4f82da98b61ed4bbb232"
+      },
+      {
+        "question": "If 7sin^2 θ + 3cos^2 θ = 4, find the value of tan θ, where θ is an acute angle.",
+        "timestamp": "2025_02_24_22-07-48",
+        "hash": "56086e06ea121d1995f652a15d41b91d"
+      },
+      {
+        "question": "If sin A + sin^2 A = 1, find the value of cos^2 A + cos^4 A.",
+        "timestamp": "2025_02_24_22-07-48",
+        "hash": "be6b77f72f3d69351a6222abea2204a2"
+      },
+      {
+        "question": "If tan x = 1/7 and tan y = 1/3, and x and y are acute angles, find the value of sin(x+y)/cos(x+y) without finding x and y individually. (Hint: Use the identity tan(x+y) = (tan x + tan y) / (1 - tan x * tan y))",
+        "timestamp": "2025_02_24_22-07-48",
+        "hash": "866943c748476d583e42e47906d3beaf"
+      },
+      {
+        "question": "If cos θ - sin θ = 1/2, find the value of cos θ + sin θ, where θ is an acute angle.",
+        "timestamp": "2025_02_24_22-07-48",
+        "hash": "453e4c3d1c3282cb734272b61192d15e"
+      },
+      {
+        "question": "Given that sin A = 3/5, find the value of (tan A + sec A)^2. (Note: sec A = 1/cos A)",
+        "timestamp": "2025_02_24_22-07-48",
+        "hash": "c982ea246382b60a0f3cc17e56a38dd0"
+      },
+      {
+        "question": "If sin x + cos x = √2, find the value of sin x * cos x.",
+        "timestamp": "2025_02_24_22-07-48",
+        "hash": "3339c3ad436714f7a01a74908bbdb9c1"
+      }
+    ],
+    "symbolic": [
+      {
+        "question": "Simplify: (1 + sin θ - cos θ) / (1 + sin θ + cos θ)  (Hint: Multiply numerator and denominator by (1 + sin θ - cos θ))",
+        "timestamp": "2025_02_24_18-45-37",
+        "hash": "ab474859639540335d32cb71faa64115"
+      },
+      {
+        "question": "Prove that (tan A + sec A - 1) / (tan A - sec A + 1) = (1 + sin A) / cos A.",
+        "timestamp": "2025_02_24_18-45-37",
+        "hash": "4055dce72e5d455f4d0a16a3b1a775c9"
+      },
+      {
+        "question": "Simplify the expression: (sin^3 A + cos^3 A) / (sin A + cos A).",
+        "timestamp": "2025_02_24_18-45-37",
+        "hash": "009d359035315badef8034058bbb9713"
+      },
+      {
+        "question": "If tan A = x, express sin 2A in terms of x. (Hint: sin 2A = 2sin A cos A)",
+        "timestamp": "2025_02_24_18-45-37",
+        "hash": "9558397f13c79726baf5f406d83a160a"
+      },
+      {
+        "question": "Simplify: (1 - tan^2 A) / (1 + tan^2 A) and express it in terms of cos 2A. (Hint: cos 2A = cos^2 A - sin^2 A)",
+        "timestamp": "2025_02_24_18-45-37",
+        "hash": "5db0372a7baf65e4dc2e794d2a342963"
+      },
+      {
+        "question": "Express sin^4 A + cos^4 A in terms of sin 2A.",
+        "timestamp": "2025_02_24_18-45-37",
+        "hash": "b186cc505bbe3d23767056b7cd2398d4"
+      },
+      {
+        "question": "Simplify: (sin A + cos A)^2 - 1.",
+        "timestamp": "2025_02_24_18-45-37",
+        "hash": "748e02253936a9681506a12893c06165"
+      },
+      {
+        "question": "If tan θ = p/q, express (p sin θ - q cos θ) / (p sin θ + q cos θ) in terms of p and q.",
+        "timestamp": "2025_02_24_18-45-37",
+        "hash": "e56c715256ebfa1e6588ffaad9a830e6"
+      },
+      {
+        "question": "Simplify (sec A - tan A)(sec A + tan A).",
+        "timestamp": "2025_02_24_18-45-37",
+        "hash": "8ebb75e42e59147d67bf59730c8e4c62"
+      },
+      {
+        "question": "Prove that sin^2 A tan A + cos^2 A cot A + 2sin A cos A = tan A + cot A.",
+        "timestamp": "2025_02_24_18-45-37",
+        "hash": "8692b45328a02f32cc1cfbac24ab90b9"
+      },
+      {
+        "question": "Simplify: (1 + sin θ - cos θ) / (1 + sin θ + cos θ)  (Hint: Multiply numerator and denominator by (1 + sin θ - cos θ))",
+        "timestamp": "2025_02_24_18-45-38",
+        "hash": "ab474859639540335d32cb71faa64115"
+      },
+      {
+        "question": "Prove that (tan A + sec A - 1) / (tan A - sec A + 1) = (1 + sin A) / cos A.",
+        "timestamp": "2025_02_24_18-45-38",
+        "hash": "4055dce72e5d455f4d0a16a3b1a775c9"
+      },
+      {
+        "question": "Simplify the expression: (sin^3 A + cos^3 A) / (sin A + cos A).",
+        "timestamp": "2025_02_24_18-45-38",
+        "hash": "009d359035315badef8034058bbb9713"
+      },
+      {
+        "question": "If tan A = x, express sin 2A in terms of x. (Hint: sin 2A = 2sin A cos A)",
+        "timestamp": "2025_02_24_18-45-38",
+        "hash": "9558397f13c79726baf5f406d83a160a"
+      },
+      {
+        "question": "Simplify: (1 - tan^2 A) / (1 + tan^2 A) and express it in terms of cos 2A. (Hint: cos 2A = cos^2 A - sin^2 A)",
+        "timestamp": "2025_02_24_18-45-38",
+        "hash": "5db0372a7baf65e4dc2e794d2a342963"
+      },
+      {
+        "question": "Express sin^4 A + cos^4 A in terms of sin 2A.",
+        "timestamp": "2025_02_24_18-45-38",
+        "hash": "b186cc505bbe3d23767056b7cd2398d4"
+      },
+      {
+        "question": "Simplify: (sin A + cos A)^2 - 1.",
+        "timestamp": "2025_02_24_18-45-38",
+        "hash": "748e02253936a9681506a12893c06165"
+      },
+      {
+        "question": "If tan θ = p/q, express (p sin θ - q cos θ) / (p sin θ + q cos θ) in terms of p and q.",
+        "timestamp": "2025_02_24_18-45-38",
+        "hash": "e56c715256ebfa1e6588ffaad9a830e6"
+      },
+      {
+        "question": "Simplify (sec A - tan A)(sec A + tan A).",
+        "timestamp": "2025_02_24_18-45-38",
+        "hash": "8ebb75e42e59147d67bf59730c8e4c62"
+      },
+      {
+        "question": "Prove that sin^2 A tan A + cos^2 A cot A + 2sin A cos A = tan A + cot A.",
+        "timestamp": "2025_02_24_18-45-38",
+        "hash": "8692b45328a02f32cc1cfbac24ab90b9"
+      },
+      {
+        "question": "Simplify: (1 + sin θ - cos θ) / (1 + sin θ + cos θ)  (Hint: Multiply numerator and denominator by (1 + sin θ - cos θ))",
+        "timestamp": "2025_02_24_22-07-47",
+        "hash": "ab474859639540335d32cb71faa64115"
+      },
+      {
+        "question": "Prove that (tan A + sec A - 1) / (tan A - sec A + 1) = (1 + sin A) / cos A.",
+        "timestamp": "2025_02_24_22-07-47",
+        "hash": "4055dce72e5d455f4d0a16a3b1a775c9"
+      },
+      {
+        "question": "Simplify the expression: (sin^3 A + cos^3 A) / (sin A + cos A).",
+        "timestamp": "2025_02_24_22-07-47",
+        "hash": "009d359035315badef8034058bbb9713"
+      },
+      {
+        "question": "If tan A = x, express sin 2A in terms of x. (Hint: sin 2A = 2sin A cos A)",
+        "timestamp": "2025_02_24_22-07-47",
+        "hash": "9558397f13c79726baf5f406d83a160a"
+      },
+      {
+        "question": "Simplify: (1 - tan^2 A) / (1 + tan^2 A) and express it in terms of cos 2A. (Hint: cos 2A = cos^2 A - sin^2 A)",
+        "timestamp": "2025_02_24_22-07-47",
+        "hash": "5db0372a7baf65e4dc2e794d2a342963"
+      },
+      {
+        "question": "Express sin^4 A + cos^4 A in terms of sin 2A.",
+        "timestamp": "2025_02_24_22-07-47",
+        "hash": "b186cc505bbe3d23767056b7cd2398d4"
+      },
+      {
+        "question": "Simplify: (sin A + cos A)^2 - 1.",
+        "timestamp": "2025_02_24_22-07-47",
+        "hash": "748e02253936a9681506a12893c06165"
+      },
+      {
+        "question": "If tan θ = p/q, express (p sin θ - q cos θ) / (p sin θ + q cos θ) in terms of p and q.",
+        "timestamp": "2025_02_24_22-07-47",
+        "hash": "e56c715256ebfa1e6588ffaad9a830e6"
+      },
+      {
+        "question": "Simplify (sec A - tan A)(sec A + tan A).",
+        "timestamp": "2025_02_24_22-07-47",
+        "hash": "8ebb75e42e59147d67bf59730c8e4c62"
+      },
+      {
+        "question": "Prove that sin^2 A tan A + cos^2 A cot A + 2sin A cos A = tan A + cot A.",
+        "timestamp": "2025_02_24_22-07-47",
+        "hash": "8692b45328a02f32cc1cfbac24ab90b9"
+      },
+      {
+        "question": "Simplify: (1 + sin θ - cos θ) / (1 + sin θ + cos θ)  (Hint: Multiply numerator and denominator by (1 + sin θ - cos θ))",
+        "timestamp": "2025_02_24_22-07-48",
+        "hash": "ab474859639540335d32cb71faa64115"
+      },
+      {
+        "question": "Prove that (tan A + sec A - 1) / (tan A - sec A + 1) = (1 + sin A) / cos A.",
+        "timestamp": "2025_02_24_22-07-48",
+        "hash": "4055dce72e5d455f4d0a16a3b1a775c9"
+      },
+      {
+        "question": "Simplify the expression: (sin^3 A + cos^3 A) / (sin A + cos A).",
+        "timestamp": "2025_02_24_22-07-48",
+        "hash": "009d359035315badef8034058bbb9713"
+      },
+      {
+        "question": "If tan A = x, express sin 2A in terms of x. (Hint: sin 2A = 2sin A cos A)",
+        "timestamp": "2025_02_24_22-07-48",
+        "hash": "9558397f13c79726baf5f406d83a160a"
+      },
+      {
+        "question": "Simplify: (1 - tan^2 A) / (1 + tan^2 A) and express it in terms of cos 2A. (Hint: cos 2A = cos^2 A - sin^2 A)",
+        "timestamp": "2025_02_24_22-07-48",
+        "hash": "5db0372a7baf65e4dc2e794d2a342963"
+      },
+      {
+        "question": "Express sin^4 A + cos^4 A in terms of sin 2A.",
+        "timestamp": "2025_02_24_22-07-48",
+        "hash": "b186cc505bbe3d23767056b7cd2398d4"
+      },
+      {
+        "question": "Simplify: (sin A + cos A)^2 - 1.",
+        "timestamp": "2025_02_24_22-07-48",
+        "hash": "748e02253936a9681506a12893c06165"
+      },
+      {
+        "question": "If tan θ = p/q, express (p sin θ - q cos θ) / (p sin θ + q cos θ) in terms of p and q.",
+        "timestamp": "2025_02_24_22-07-48",
+        "hash": "e56c715256ebfa1e6588ffaad9a830e6"
+      },
+      {
+        "question": "Simplify (sec A - tan A)(sec A + tan A).",
+        "timestamp": "2025_02_24_22-07-48",
+        "hash": "8ebb75e42e59147d67bf59730c8e4c62"
+      },
+      {
+        "question": "Prove that sin^2 A tan A + cos^2 A cot A + 2sin A cos A = tan A + cot A.",
+        "timestamp": "2025_02_24_22-07-48",
+        "hash": "8692b45328a02f32cc1cfbac24ab90b9"
+      }
+    ],
+    "statement": [
+      {
+        "question": "Explain how the Pythagorean identity (sin^2 θ + cos^2 θ = 1) is derived from the Pythagorean theorem.",
+        "timestamp": "2025_02_24_18-45-37",
+        "success": false,
+        "hash": "122e475ecac1c7fb3c31f1dabe0fa235"
+      },
+      {
+        "question": "Explain why the identity sin(90° - θ) = cos θ holds true for all acute angles θ, using a right-angled triangle.",
+        "timestamp": "2025_02_24_18-45-37",
+        "hash": "d4ce3d23be84b941d90473cbf85c3f1f"
+      },
+      {
+        "question": "Describe a real-world application where understanding the relationship between sine, cosine, and tangent is useful.",
+        "timestamp": "2025_02_24_18-45-37",
+        "hash": "a7b4383e84d58311c193889ed16481a9"
+      },
+      {
+        "question": "Explain the concept of \"angle of elevation\" and how it relates to trigonometric ratios.",
+        "timestamp": "2025_02_24_18-45-37",
+        "hash": "c38ae7b53fcd0a1615d31be9dd2d274f"
+      },
+      {
+        "question": "Explain the concept of \"angle of depression\" and how it relates to trigonometric ratios.",
+        "timestamp": "2025_02_24_18-45-37",
+        "hash": "6cc9755b93ca2faff9fe8a60c54f2a42"
+      },
+      {
+        "question": "Explain why the trigonometric ratios of 45 degrees are derived from an isosceles right triangle.",
+        "timestamp": "2025_02_24_18-45-37",
+        "hash": "078eb98f8b6212456d344036992e93be"
+      },
+      {
+        "question": "How can you use trigonometric ratios to find the height of a tall object, given the distance to the object and the angle of elevation?",
+        "timestamp": "2025_02_24_18-45-37",
+        "hash": "2fac620f4ee543433a1d813a7c8c9c78"
+      },
+      {
+        "question": "Explain the limitations of using only sine, cosine, and tangent ratios for solving problems involving non-right triangles.",
+        "timestamp": "2025_02_24_18-45-37",
+        "hash": "20dfca407f86aa157f47ffb551f22a29"
+      },
+      {
+        "question": "Explain how trigonometric ratios can be used to find unknown side lengths in a right-angled triangle.",
+        "timestamp": "2025_02_24_18-45-37",
+        "hash": "18609444ce28e64a3a08d71dcdb48163"
+      },
+      {
+        "question": "Discuss the relationship between the unit circle and the trigonometric ratios of angles greater than 90 degrees (although this is beyond the 10th-grade syllabus, it tests deeper understanding).",
+        "timestamp": "2025_02_24_18-45-37",
+        "hash": "e5db32809e35102dba792e21a1371266"
+      },
+      {
+        "question": "Explain how the Pythagorean identity (sin^2 θ + cos^2 θ = 1) is derived from the Pythagorean theorem.",
+        "timestamp": "2025_02_24_18-45-38",
+        "hash": "122e475ecac1c7fb3c31f1dabe0fa235"
+      },
+      {
+        "question": "Explain why the identity sin(90° - θ) = cos θ holds true for all acute angles θ, using a right-angled triangle.",
+        "timestamp": "2025_02_24_18-45-38",
+        "hash": "d4ce3d23be84b941d90473cbf85c3f1f"
+      },
+      {
+        "question": "Describe a real-world application where understanding the relationship between sine, cosine, and tangent is useful.",
+        "timestamp": "2025_02_24_18-45-38",
+        "hash": "a7b4383e84d58311c193889ed16481a9"
+      },
+      {
+        "question": "Explain the concept of \"angle of elevation\" and how it relates to trigonometric ratios.",
+        "timestamp": "2025_02_24_18-45-38",
+        "hash": "c38ae7b53fcd0a1615d31be9dd2d274f"
+      },
+      {
+        "question": "Explain the concept of \"angle of depression\" and how it relates to trigonometric ratios.",
+        "timestamp": "2025_02_24_18-45-38",
+        "hash": "6cc9755b93ca2faff9fe8a60c54f2a42"
+      },
+      {
+        "question": "Explain why the trigonometric ratios of 45 degrees are derived from an isosceles right triangle.",
+        "timestamp": "2025_02_24_18-45-38",
+        "hash": "078eb98f8b6212456d344036992e93be"
+      },
+      {
+        "question": "How can you use trigonometric ratios to find the height of a tall object, given the distance to the object and the angle of elevation?",
+        "timestamp": "2025_02_24_18-45-38",
+        "hash": "2fac620f4ee543433a1d813a7c8c9c78"
+      },
+      {
+        "question": "Explain the limitations of using only sine, cosine, and tangent ratios for solving problems involving non-right triangles.",
+        "timestamp": "2025_02_24_18-45-38",
+        "hash": "20dfca407f86aa157f47ffb551f22a29"
+      },
+      {
+        "question": "Explain how trigonometric ratios can be used to find unknown side lengths in a right-angled triangle.",
+        "timestamp": "2025_02_24_18-45-38",
+        "hash": "18609444ce28e64a3a08d71dcdb48163"
+      },
+      {
+        "question": "Discuss the relationship between the unit circle and the trigonometric ratios of angles greater than 90 degrees (although this is beyond the 10th-grade syllabus, it tests deeper understanding).",
+        "timestamp": "2025_02_24_18-45-38",
+        "hash": "e5db32809e35102dba792e21a1371266"
+      },
+      {
+        "question": "Explain how the Pythagorean identity (sin^2 θ + cos^2 θ = 1) is derived from the Pythagorean theorem.",
+        "timestamp": "2025_02_24_22-07-47",
+        "hash": "122e475ecac1c7fb3c31f1dabe0fa235"
+      },
+      {
+        "question": "Explain why the identity sin(90° - θ) = cos θ holds true for all acute angles θ, using a right-angled triangle.",
+        "timestamp": "2025_02_24_22-07-47",
+        "hash": "d4ce3d23be84b941d90473cbf85c3f1f"
+      },
+      {
+        "question": "Describe a real-world application where understanding the relationship between sine, cosine, and tangent is useful.",
+        "timestamp": "2025_02_24_22-07-47",
+        "hash": "a7b4383e84d58311c193889ed16481a9"
+      },
+      {
+        "question": "Explain the concept of \"angle of elevation\" and how it relates to trigonometric ratios.",
+        "timestamp": "2025_02_24_22-07-47",
+        "hash": "c38ae7b53fcd0a1615d31be9dd2d274f"
+      },
+      {
+        "question": "Explain the concept of \"angle of depression\" and how it relates to trigonometric ratios.",
+        "timestamp": "2025_02_24_22-07-47",
+        "hash": "6cc9755b93ca2faff9fe8a60c54f2a42"
+      },
+      {
+        "question": "Explain why the trigonometric ratios of 45 degrees are derived from an isosceles right triangle.",
+        "timestamp": "2025_02_24_22-07-47",
+        "hash": "078eb98f8b6212456d344036992e93be"
+      },
+      {
+        "question": "How can you use trigonometric ratios to find the height of a tall object, given the distance to the object and the angle of elevation?",
+        "timestamp": "2025_02_24_22-07-47",
+        "hash": "2fac620f4ee543433a1d813a7c8c9c78"
+      },
+      {
+        "question": "Explain the limitations of using only sine, cosine, and tangent ratios for solving problems involving non-right triangles.",
+        "timestamp": "2025_02_24_22-07-47",
+        "hash": "20dfca407f86aa157f47ffb551f22a29"
+      },
+      {
+        "question": "Explain how trigonometric ratios can be used to find unknown side lengths in a right-angled triangle.",
+        "timestamp": "2025_02_24_22-07-47",
+        "hash": "18609444ce28e64a3a08d71dcdb48163"
+      },
+      {
+        "question": "Discuss the relationship between the unit circle and the trigonometric ratios of angles greater than 90 degrees (although this is beyond the 10th-grade syllabus, it tests deeper understanding).",
+        "timestamp": "2025_02_24_22-07-47",
+        "hash": "e5db32809e35102dba792e21a1371266"
+      },
+      {
+        "question": "Explain how the Pythagorean identity (sin^2 θ + cos^2 θ = 1) is derived from the Pythagorean theorem.",
+        "timestamp": "2025_02_24_22-07-48",
+        "hash": "122e475ecac1c7fb3c31f1dabe0fa235"
+      },
+      {
+        "question": "Explain why the identity sin(90° - θ) = cos θ holds true for all acute angles θ, using a right-angled triangle.",
+        "timestamp": "2025_02_24_22-07-48",
+        "hash": "d4ce3d23be84b941d90473cbf85c3f1f"
+      },
+      {
+        "question": "Describe a real-world application where understanding the relationship between sine, cosine, and tangent is useful.",
+        "timestamp": "2025_02_24_22-07-48",
+        "hash": "a7b4383e84d58311c193889ed16481a9"
+      },
+      {
+        "question": "Explain the concept of \"angle of elevation\" and how it relates to trigonometric ratios.",
+        "timestamp": "2025_02_24_22-07-48",
+        "hash": "c38ae7b53fcd0a1615d31be9dd2d274f"
+      },
+      {
+        "question": "Explain the concept of \"angle of depression\" and how it relates to trigonometric ratios.",
+        "timestamp": "2025_02_24_22-07-48",
+        "hash": "6cc9755b93ca2faff9fe8a60c54f2a42"
+      },
+      {
+        "question": "Explain why the trigonometric ratios of 45 degrees are derived from an isosceles right triangle.",
+        "timestamp": "2025_02_24_22-07-48",
+        "hash": "078eb98f8b6212456d344036992e93be"
+      },
+      {
+        "question": "How can you use trigonometric ratios to find the height of a tall object, given the distance to the object and the angle of elevation?",
+        "timestamp": "2025_02_24_22-07-48",
+        "hash": "2fac620f4ee543433a1d813a7c8c9c78"
+      },
+      {
+        "question": "Explain the limitations of using only sine, cosine, and tangent ratios for solving problems involving non-right triangles.",
+        "timestamp": "2025_02_24_22-07-48",
+        "hash": "20dfca407f86aa157f47ffb551f22a29"
+      },
+      {
+        "question": "Explain how trigonometric ratios can be used to find unknown side lengths in a right-angled triangle.",
+        "timestamp": "2025_02_24_22-07-48",
+        "hash": "18609444ce28e64a3a08d71dcdb48163"
+      },
+      {
+        "question": "Discuss the relationship between the unit circle and the trigonometric ratios of angles greater than 90 degrees (although this is beyond the 10th-grade syllabus, it tests deeper understanding).",
+        "timestamp": "2025_02_24_22-07-48",
+        "hash": "e5db32809e35102dba792e21a1371266"
+      }
+    ]
+  }
+}
