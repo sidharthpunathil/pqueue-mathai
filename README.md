@@ -1,6 +1,6 @@
 # pqueue-mathai
 ```
-it makes a copy of json and removed already solved quesitons
+it makes a copy of question.json and remove already solved quesitons
 ```
 
 
